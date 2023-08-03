@@ -1,0 +1,4 @@
+-I"C:\XHB\include;C:\BCC55\include;C:\fwh\INCLUDE;C:\Users\Kleyber\Downloads\FRH;"
+-L"C:\fwh\LIB;C:\XHB\lib;C:\BCC55\lib;C:\BCC55\lib\psdk;;;C:\BCC55\Lib;;"
+-o"C:\LIXO_FW\FASTREPORT\FastRepH.obj"
+"C:\LIXO_FW\FASTREPORT\FastRepH.c"

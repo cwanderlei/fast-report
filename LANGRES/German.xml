@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Abbruch"/>
+  <StrRes Name="3" Text="Alle"/>
+  <StrRes Name="4" Text="Aktuelle Seite"/>
+  <StrRes Name="5" Text="Seiten:"/>
+  <StrRes Name="6" Text="Seitenumbrüche"/>
+  <StrRes Name="7" Text="Seitenbereich"/>
+  <StrRes Name="8" Text="Exporteinstellungen"/>
+  <StrRes Name="9" Text="Seitennummern und/oder Seitenbereiche durch Komma getrennt eingeben, z.B. 1,3,5-12"/>
+  <StrRes Name="100" Text="Vorschau"/>
+  <StrRes Name="101" Text="Drucken"/>
+  <StrRes Name="102" Text="Drucken"/>
+  <StrRes Name="103" Text="Öffnen"/>
+  <StrRes Name="104" Text="Öffnen"/>
+  <StrRes Name="105" Text="Speichern"/>
+  <StrRes Name="106" Text="Speichern"/>
+  <StrRes Name="107" Text="Export"/>
+  <StrRes Name="108" Text="Export"/>
+  <StrRes Name="109" Text="Suchen"/>
+  <StrRes Name="110" Text="Suchen"/>
+  <StrRes Name="111" Text="Ganze Seite"/>
+  <StrRes Name="112" Text="Ganze Seite"/>
+  <StrRes Name="113" Text="Seitenbreite"/>
+  <StrRes Name="114" Text="Seitenbreite"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Zwei Seiten"/>
+  <StrRes Name="118" Text="Zwei Seiten"/>
+  <StrRes Name="119" Text="Zoom"/>
+  <StrRes Name="120" Text="Seiteneinstellungen"/>
+  <StrRes Name="121" Text="Seiteneinstellungen"/>
+  <StrRes Name="122" Text="Baumansicht"/>
+  <StrRes Name="123" Text="Baumansicht"/>
+  <StrRes Name="124" Text="Vergrößern"/>
+  <StrRes Name="125" Text="Vergrößern"/>
+  <StrRes Name="126" Text="Verkleinern"/>
+  <StrRes Name="127" Text="Verkleinern"/>
+  <StrRes Name="128" Text="Baumansicht"/>
+  <StrRes Name="129" Text="Baumansicht"/>
+  <StrRes Name="130" Text="Miniaturansicht"/>
+  <StrRes Name="131" Text="Miniaturansicht"/>
+  <StrRes Name="132" Text="Bearbeiten"/>
+  <StrRes Name="133" Text="Seite bearbeiten"/>
+  <StrRes Name="134" Text="Erste"/>
+  <StrRes Name="135" Text="Erste Seite"/>
+  <StrRes Name="136" Text="Vorige"/>
+  <StrRes Name="137" Text="Vorige Seite"/>
+  <StrRes Name="138" Text="Nächste"/>
+  <StrRes Name="139" Text="Nächste Seite"/>
+  <StrRes Name="140" Text="Letzte"/>
+  <StrRes Name="141" Text="Letzte Seite"/>
+  <StrRes Name="142" Text="Seitennummer"/>
+  <StrRes Name="150" Text="Vollbild"/>
+  <StrRes Name="151" Text="Export nach PDF"/>
+  <StrRes Name="152" Text="Als E-Mail senden"/>
+  <StrRes Name="zmPageWidth" Text="Seitenbreite"/>
+  <StrRes Name="zmWholePage" Text="Ganze Seite"/>
+  <StrRes Name="200" Text="Drucken"/>
+  <StrRes Name="201" Text="Drucker   "/>
+  <StrRes Name="202" Text="Seiten   "/>
+  <StrRes Name="203" Text="Anzahl der Kopien"/>
+  <StrRes Name="204" Text="Sortieren"/>
+  <StrRes Name="205" Text="Kopien   "/>
+  <StrRes Name="206" Text="Drucken"/>
+  <StrRes Name="207" Text="Druckoptionen"/>
+  <StrRes Name="208" Text="Ort:"/>
+  <StrRes Name="209" Text="Eigenschaften..."/>
+  <StrRes Name="210" Text="In Datei drucken"/>
+  <StrRes Name="211" Text="Reihenfolge"/>
+  <StrRes Name="212" Text="Name:"/>
+  <StrRes Name="213" Text="Druckmodus"/>
+  <StrRes Name="214" Text="Papierformat"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Alle Seiten"/>
+  <StrRes Name="ppOdd" Text="Ungerade Seiten"/>
+  <StrRes Name="ppEven" Text="Gerade Seiten"/>
+  <StrRes Name="pgDefault" Text="Standard"/>
+  <StrRes Name="pmDefault" Text="Standard"/>
+  <StrRes Name="pmSplit" Text="Aufteilen"/>
+  <StrRes Name="pmJoin" Text="Zusammenfügen"/>
+  <StrRes Name="pmScale" Text="Anpassen"/>
+  <StrRes Name="poDirect" Text="Beginne mit erster Seite"/>
+  <StrRes Name="poReverse" Text="Beginne mit letzter Seite"/>
+  <StrRes Name="300" Text="Text suchen"/>
+  <StrRes Name="301" Text="Suchtext:"/>
+  <StrRes Name="302" Text="Suchoptionen   "/>
+  <StrRes Name="303" Text="Ersetzen durch"/>
+  <StrRes Name="304" Text="Ab Anfang"/>
+  <StrRes Name="305" Text="Groß-/Kleinschreibung"/>
+  <StrRes Name="400" Text="Seiteneinstellungen"/>
+  <StrRes Name="401" Text="Breite"/>
+  <StrRes Name="402" Text="Höhe"/>
+  <StrRes Name="403" Text="Größe   "/>
+  <StrRes Name="404" Text="Ausrichtung   "/>
+  <StrRes Name="405" Text="Links"/>
+  <StrRes Name="406" Text="Oben"/>
+  <StrRes Name="407" Text="Rechts"/>
+  <StrRes Name="408" Text="Unten"/>
+  <StrRes Name="409" Text="Ränder   "/>
+  <StrRes Name="410" Text="Hochformat"/>
+  <StrRes Name="411" Text="Querformat"/>
+  <StrRes Name="412" Text="Sonstige   "/>
+  <StrRes Name="413" Text="Auf aktuelle Seite anwenden"/>
+  <StrRes Name="414" Text="Auf alle Seiten anwenden"/>
+  <StrRes Name="500" Text="Drucken"/>
+  <StrRes Name="501" Text="Drucker   "/>
+  <StrRes Name="502" Text="Seiten   "/>
+  <StrRes Name="503" Text="Kopien   "/>
+  <StrRes Name="504" Text="Anzahl der Kopien"/>
+  <StrRes Name="505" Text="Optionen   "/>
+  <StrRes Name="506" Text="Druckerbefehle   "/>
+  <StrRes Name="507" Text="In Datei drucken"/>
+  <StrRes Name="508" Text="OEM Zeichensatz"/>
+  <StrRes Name="509" Text="Pseudografik"/>
+  <StrRes Name="510" Text="Druckdatei (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Bestätigen"/>
+  <StrRes Name="mbError" Text="Fehler"/>
+  <StrRes Name="mbInfo" Text="Information"/>
+  <StrRes Name="xrCantFindClass" Text="Klasse wurde nicht gefunden"/>
+  <StrRes Name="prVirtual" Text="Virtuell"/>
+  <StrRes Name="prDefault" Text="Vorgabe"/>
+  <StrRes Name="prCustom" Text="Benutzerdefiniert"/>
+  <StrRes Name="enUnconnHeader" Text="Nicht verbundene Kopf/Fußzeile"/>
+  <StrRes Name="enUnconnGroup" Text="Kein Datenband für die Gruppe"/>
+  <StrRes Name="enUnconnGFooter" Text="Kein Gruppenkopf für"/>
+  <StrRes Name="enBandPos" Text="Falsche Bandposition:"/>
+  <StrRes Name="dbNotConn" Text="DataSet %s ist nicht mit Daten verbunden"/>
+  <StrRes Name="dbFldNotFound" Text="Feld nicht gefunden:"/>
+  <StrRes Name="clDSNotIncl" Text="(Dataset ist nicht in Report-DataSets enthalten)"/>
+  <StrRes Name="clUnknownVar" Text="Unbekannte Variable oder Datenfeld:"/>
+  <StrRes Name="clScrError" Text="Scriptfehler bei %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#38;#34;%s&#38;#34; existiert nicht"/>
+  <StrRes Name="clErrors" Text="Folgende(r) Fehler trat(en) auf:"/>
+  <StrRes Name="clExprError" Text="Fehler im Ausdruck"/>
+  <StrRes Name="clFP3files" Text="Vorbereiteter Report"/>
+  <StrRes Name="clSaving" Text="Speichere Datei..."/>
+  <StrRes Name="clCancel" Text="Abbruch"/>
+  <StrRes Name="clClose" Text="Schließen"/>
+  <StrRes Name="clPrinting" Text="Drucke Seite"/>
+  <StrRes Name="clLoading" Text="Lade Datei..."/>
+  <StrRes Name="clPageOf" Text="Seite %d von %d"/>
+  <StrRes Name="clFirstPass" Text="Erster Drucklauf: Seite "/>
+  <StrRes Name="clNoPrinters" Text="Kein Drucker im System installiert"/>
+  <StrRes Name="clDecompressError" Text="Fehler bei Stream-Dekomprimierung"/>
+  <StrRes Name="crFillMx" Text="Fülle Cross-tab..."/>
+  <StrRes Name="crBuildMx" Text="Erzeuge Cross-tab..."/>
+  <StrRes Name="prRunningFirst" Text="Erster Durchlauf: Seite %d"/>
+  <StrRes Name="prRunning" Text="Vorbereitung Seite %d"/>
+  <StrRes Name="prPrinting" Text="Drucke Seite %d"/>
+  <StrRes Name="prExporting" Text="Exportiere Seite %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="Zch"/>
+  <StrRes Name="dupDefault" Text="Standard"/>
+  <StrRes Name="dupVert" Text="Vertikal"/>
+  <StrRes Name="dupHorz" Text="Horizontal"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="Sprache '%s' nicht gefunden"/>
+  <StrRes Name="SInvalidLanguage" Text="Ungültige Sprachdefinition"/>
+  <StrRes Name="SIdRedeclared" Text="Doppelter Bezeichner: "/>
+  <StrRes Name="SUnknownType" Text="Unbekannter Typ: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Inkompatible Typen"/>
+  <StrRes Name="SIdUndeclared" Text="Undefinierter Bezeichner: "/>
+  <StrRes Name="SClassRequired" Text="Klassentyp erforderlich"/>
+  <StrRes Name="SIndexRequired" Text="Index erforderlich"/>
+  <StrRes Name="SStringError" Text="Zeichenketten haben keine Eigenschaften oder Methoden"/>
+  <StrRes Name="SClassError" Text="Klasse %s hat keine Standardeigenschaft"/>
+  <StrRes Name="SArrayRequired" Text="Arraytyp erforderlich"/>
+  <StrRes Name="SVarRequired" Text="Variable erforderlich"/>
+  <StrRes Name="SNotEnoughParams" Text="Nicht genügend wirkliche Parameter"/>
+  <StrRes Name="STooManyParams" Text="Zu viele wirkliche Parameter"/>
+  <StrRes Name="SLeftCantAssigned" Text="Die linke Seite kann nicht zugewiesen werden"/>
+  <StrRes Name="SForError" Text="Variable einer Forschleife muss numerisch sein"/>
+  <StrRes Name="SEventError" Text="Event-Handler muss eine Prozedur sein"/>
+  <StrRes Name="600" Text="Alle erweitern"/>
+  <StrRes Name="601" Text="Alle ausblenden"/>
+  <StrRes Name="2000" Text="Objektinspektor"/>
+  <StrRes Name="oiProp" Text="Eigenschaften"/>
+  <StrRes Name="oiEvent" Text="Ereignisse"/>
+  <StrRes Name="2100" Text="Datenbaum"/>
+  <StrRes Name="2101" Text="Daten"/>
+  <StrRes Name="2102" Text="Variablen"/>
+  <StrRes Name="2103" Text="Funktionen"/>
+  <StrRes Name="2104" Text="Erzeuge Feld"/>
+  <StrRes Name="2105" Text="Erzeuge Beschriftung"/>
+  <StrRes Name="2106" Text="Klassen"/>
+  <StrRes Name="dtNoData" Text="Keine Daten verfügbar"/>
+  <StrRes Name="dtNoData1" Text="Bitte im Menüpunkt &#38;#34;Report|Daten...&#38;#34; eine Tabelle auswählen oder in den Reiter Daten wechseln um eine neue Tabelle zu erzeugen."/>
+  <StrRes Name="dtData" Text="Daten"/>
+  <StrRes Name="dtSysVar" Text="Systemvariablen"/>
+  <StrRes Name="dtVar" Text="Variablen"/>
+  <StrRes Name="dtFunc" Text="Funktionen"/>
+  <StrRes Name="2200" Text="Reportbaum"/>
+  <StrRes Name="2300" Text="Scriptdatei öffnen"/>
+  <StrRes Name="2301" Text="Scriptdatei speichern"/>
+  <StrRes Name="2302" Text="Script ausführen"/>
+  <StrRes Name="2303" Text="Einzelne Anweisung"/>
+  <StrRes Name="2304" Text="Script beenden"/>
+  <StrRes Name="2305" Text="Auswerten"/>
+  <StrRes Name="2306" Text="Sprache:"/>
+  <StrRes Name="2307" Text="Ausrichtung"/>
+  <StrRes Name="2308" Text="Ausrichtung links"/>
+  <StrRes Name="2309" Text="Ausrichtung zentriert"/>
+  <StrRes Name="2310" Text="Ausrichtung rechts"/>
+  <StrRes Name="2311" Text="Ausrichtung oben"/>
+  <StrRes Name="2312" Text="Ausrichtung mitte"/>
+  <StrRes Name="2313" Text="Ausrichtung unten"/>
+  <StrRes Name="2314" Text="Abstand horizontal"/>
+  <StrRes Name="2315" Text="Abstand vertikal"/>
+  <StrRes Name="2316" Text="Horizontal im Band zentrieren"/>
+  <StrRes Name="2317" Text="Vertikal im Band zentrieren"/>
+  <StrRes Name="2318" Text="Gleiche Breite"/>
+  <StrRes Name="2319" Text="Gleiche Höhe"/>
+  <StrRes Name="2320" Text="Text"/>
+  <StrRes Name="2321" Text="Stil"/>
+  <StrRes Name="2322" Text="Schriftname"/>
+  <StrRes Name="2323" Text="Schriftgröße"/>
+  <StrRes Name="2324" Text="Fett"/>
+  <StrRes Name="2325" Text="Kursiv"/>
+  <StrRes Name="2326" Text="Unterstrichen"/>
+  <StrRes Name="2327" Text="Schriftfarbe"/>
+  <StrRes Name="2328" Text="Hervorheben"/>
+  <StrRes Name="2329" Text="Textdrehung"/>
+  <StrRes Name="2330" Text="Ausrichtung links"/>
+  <StrRes Name="2331" Text="Ausrichtung zentriert"/>
+  <StrRes Name="2332" Text="Ausrichtung rechts"/>
+  <StrRes Name="2333" Text="Blocksatz"/>
+  <StrRes Name="2334" Text="Ausrichtung oben"/>
+  <StrRes Name="2335" Text="Ausrichtung mitte"/>
+  <StrRes Name="2336" Text="Ausrichtung unten"/>
+  <StrRes Name="2337" Text="Rahmen"/>
+  <StrRes Name="2338" Text="Linie oben"/>
+  <StrRes Name="2339" Text="Linie unten"/>
+  <StrRes Name="2340" Text="Linie links"/>
+  <StrRes Name="2341" Text="Linie rechts"/>
+  <StrRes Name="2342" Text="Alle Rahmenlinien"/>
+  <StrRes Name="2343" Text="Kein Rahmen"/>
+  <StrRes Name="2344" Text="Schatten"/>
+  <StrRes Name="2345" Text="Hintergrundfarbe"/>
+  <StrRes Name="2346" Text="Rahmenfarbe"/>
+  <StrRes Name="2347" Text="Rahmenstil"/>
+  <StrRes Name="2348" Text="Rahmenbreite"/>
+  <StrRes Name="2349" Text="Standard"/>
+  <StrRes Name="2350" Text="Neuer Report"/>
+  <StrRes Name="2351" Text="Report öffnen"/>
+  <StrRes Name="2352" Text="Report speichern"/>
+  <StrRes Name="2353" Text="Vorschau"/>
+  <StrRes Name="2354" Text="Neue Reportseite"/>
+  <StrRes Name="2355" Text="Neue Dialogseite"/>
+  <StrRes Name="2356" Text="Seite löschen"/>
+  <StrRes Name="2357" Text="Seiteneinstellungen"/>
+  <StrRes Name="2358" Text="Variablen"/>
+  <StrRes Name="2359" Text="Ausschneiden"/>
+  <StrRes Name="2360" Text="Kopieren"/>
+  <StrRes Name="2361" Text="Einfügen"/>
+  <StrRes Name="2362" Text="Format kopieren"/>
+  <StrRes Name="2363" Text="Rückgängig"/>
+  <StrRes Name="2364" Text="Wiederherstellen"/>
+  <StrRes Name="2365" Text="Gruppieren"/>
+  <StrRes Name="2366" Text="Gruppierung aufheben"/>
+  <StrRes Name="2367" Text="Gitter anzeigen"/>
+  <StrRes Name="2368" Text="Am Gitter ausrichten"/>
+  <StrRes Name="2369" Text="An Gitter anpassen"/>
+  <StrRes Name="2370" Text="Zoom"/>
+  <StrRes Name="2371" Text="Extrawerkzeuge"/>
+  <StrRes Name="2372" Text="Auswahlwerkzeug"/>
+  <StrRes Name="2373" Text="Hand"/>
+  <StrRes Name="2374" Text="Zoom"/>
+  <StrRes Name="2375" Text="Textbearbeitung"/>
+  <StrRes Name="2376" Text="Format kopieren"/>
+  <StrRes Name="2377" Text="Band einfügen"/>
+  <StrRes Name="2378" Text="&Datei"/>
+  <StrRes Name="2379" Text="&Bearbeiten"/>
+  <StrRes Name="2380" Text="Suchen..."/>
+  <StrRes Name="2381" Text="Weitersuchen"/>
+  <StrRes Name="2382" Text="Ersetzen..."/>
+  <StrRes Name="2383" Text="&Report"/>
+  <StrRes Name="2384" Text="Daten..."/>
+  <StrRes Name="2385" Text="Optionen..."/>
+  <StrRes Name="2386" Text="Stile..."/>
+  <StrRes Name="2387" Text="&Ansicht"/>
+  <StrRes Name="2388" Text="Symbolleisten"/>
+  <StrRes Name="2389" Text="Standard"/>
+  <StrRes Name="2390" Text="Text"/>
+  <StrRes Name="2391" Text="Rahmen"/>
+  <StrRes Name="2392" Text="Ausrichtungspalette"/>
+  <StrRes Name="2393" Text="Extrawerkzeuge"/>
+  <StrRes Name="2394" Text="Objektinspektor"/>
+  <StrRes Name="2395" Text="Datenbaum"/>
+  <StrRes Name="2396" Text="Reportbaum"/>
+  <StrRes Name="2397" Text="Lineale"/>
+  <StrRes Name="2398" Text="Führungslinien"/>
+  <StrRes Name="2399" Text="Führungslinien löschen"/>
+  <StrRes Name="2400" Text="Optionen..."/>
+  <StrRes Name="2401" Text="&Hilfe"/>
+  <StrRes Name="2402" Text="Inhalt..."/>
+  <StrRes Name="2403" Text="Über FastReport..."/>
+  <StrRes Name="2404" Text="Tab-Reihenfolge..."/>
+  <StrRes Name="2405" Text="Rückgängig"/>
+  <StrRes Name="2406" Text="Wiederherstellen"/>
+  <StrRes Name="2407" Text="Ausschneiden"/>
+  <StrRes Name="2408" Text="Kopieren"/>
+  <StrRes Name="2409" Text="Einfügen"/>
+  <StrRes Name="2410" Text="Gruppieren"/>
+  <StrRes Name="2411" Text="Gruppierung aufheben"/>
+  <StrRes Name="2412" Text="Löschen"/>
+  <StrRes Name="2413" Text="Seite löschen"/>
+  <StrRes Name="2414" Text="Alles auswählen"/>
+  <StrRes Name="2415" Text="Bearbeiten..."/>
+  <StrRes Name="2416" Text="Nach vorne setzen"/>
+  <StrRes Name="2417" Text="Nach hinten setzen"/>
+  <StrRes Name="2418" Text="Neu..."/>
+  <StrRes Name="2419" Text="Neuer Report"/>
+  <StrRes Name="2420" Text="Neue Seite"/>
+  <StrRes Name="2421" Text="Neuer Dialog"/>
+  <StrRes Name="2422" Text="Öffnen..."/>
+  <StrRes Name="2423" Text="Speichern"/>
+  <StrRes Name="2424" Text="Speichern unter..."/>
+  <StrRes Name="2425" Text="Variablen..."/>
+  <StrRes Name="2426" Text="Seiteneinstellungen..."/>
+  <StrRes Name="2427" Text="Vorschau"/>
+  <StrRes Name="2428" Text="Beenden"/>
+  <StrRes Name="2429" Text="Reporttitel"/>
+  <StrRes Name="2430" Text="Reportzusammenfassung"/>
+  <StrRes Name="2431" Text="Seitenkopf"/>
+  <StrRes Name="2432" Text="Seitenfuß"/>
+  <StrRes Name="2433" Text="Kopf"/>
+  <StrRes Name="2434" Text="Fuß"/>
+  <StrRes Name="2435" Text="Masterdaten"/>
+  <StrRes Name="2436" Text="Detaildaten"/>
+  <StrRes Name="2437" Text="Subdetaildaten"/>
+  <StrRes Name="2438" Text="Daten 4. Ebene"/>
+  <StrRes Name="2439" Text="Daten 5. Ebene"/>
+  <StrRes Name="2440" Text="Daten 6. Ebene"/>
+  <StrRes Name="2441" Text="Gruppenkopf"/>
+  <StrRes Name="2442" Text="Gruppenfuß"/>
+  <StrRes Name="2443" Text="Child"/>
+  <StrRes Name="2444" Text="Spaltenkopf"/>
+  <StrRes Name="2445" Text="Spaltenfuß"/>
+  <StrRes Name="2446" Text="Overlay"/>
+  <StrRes Name="2447" Text="Vertikale Bänder"/>
+  <StrRes Name="2448" Text="Kopf"/>
+  <StrRes Name="2449" Text="Fuß"/>
+  <StrRes Name="2450" Text="Masterdaten"/>
+  <StrRes Name="2451" Text="Detaildaten"/>
+  <StrRes Name="2452" Text="Subdetaildaten"/>
+  <StrRes Name="2453" Text="Gruppenkopf"/>
+  <StrRes Name="2454" Text="Gruppenfuß"/>
+  <StrRes Name="2455" Text="Child"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Schrifteinstellungen"/>
+  <StrRes Name="2462" Text="Fett"/>
+  <StrRes Name="2463" Text="Kursiv"/>
+  <StrRes Name="2464" Text="Unterstrichen"/>
+  <StrRes Name="2465" Text="Hochgestellt"/>
+  <StrRes Name="2466" Text="Tiefgestellt"/>
+  <StrRes Name="2467" Text="Eng"/>
+  <StrRes Name="2468" Text="Weit"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Report (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascaldateien (*.pas)|*.pas|C++ Dateien (*.cpp)|*.cpp|JavaScriptdateien (*.js)|*.js|Basicdateien (*.vb)|*.vb|Alle Dateien|*.*"/>
+  <StrRes Name="2473" Text="Pascaldateien (*.pas)|*.pas|C++ Dateien (*.cpp)|*.cpp|JavaScriptdateien (*.js)|*.js|Basicdateien (*.vb)|*.vb|Alle Dateien|*.*"/>
+  <StrRes Name="2474" Text="Verbindungen..."/>
+  <StrRes Name="2475" Text="Sprache"/>
+  <StrRes Name="2476" Text="Haltepunkt umschalten"/>
+  <StrRes Name="2477" Text="Gehe zu Cursorposition"/>
+  <StrRes Name="2478" Text="Child Band hinzufügen"/>
+  <StrRes Name="dsCm" Text="Zentimeter"/>
+  <StrRes Name="dsInch" Text="Zoll"/>
+  <StrRes Name="dsPix" Text="Pixel"/>
+  <StrRes Name="dsChars" Text="Zeichen"/>
+  <StrRes Name="dsCode" Text="Code"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Seite"/>
+  <StrRes Name="dsRepFilter" Text="Report (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Komprimierter Report (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Änderungen an der Vorschau speichern?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Änderungen speichern "/>
+  <StrRes Name="dsCantLoad" Text="Datei kann nicht geladen werden"/>
+  <StrRes Name="dsStyleFile" Text="Stil"/>
+  <StrRes Name="dsCantFindProc" Text="Hauptprozedur kann nicht gefunden werden"/>
+  <StrRes Name="dsClearScript" Text="Gesamter Code wird gelöscht. Fortfahren?"/>
+  <StrRes Name="dsNoStyle" Text="Kein Stil"/>
+  <StrRes Name="dsStyleSample" Text="Stilbeispiel"/>
+  <StrRes Name="dsTextNotFound" Text="Text '%s' nicht gefunden"/>
+  <StrRes Name="dsReplace" Text="Dieses Vorkommen von '%s' ersetzen?"/>
+  <StrRes Name="2600" Text="Über FastReport"/>
+  <StrRes Name="2601" Text="Weitere Informationen unter:"/>
+  <StrRes Name="2602" Text="Verkauf:"/>
+  <StrRes Name="2603" Text="Support:"/>
+  <StrRes Name="2700" Text="Seiteneinstellungen"/>
+  <StrRes Name="2701" Text="Papier"/>
+  <StrRes Name="2702" Text="Breite"/>
+  <StrRes Name="2703" Text="Höhe"/>
+  <StrRes Name="2704" Text="Größe   "/>
+  <StrRes Name="2705" Text="Ausrichtung   "/>
+  <StrRes Name="2706" Text="Links"/>
+  <StrRes Name="2707" Text="Oben"/>
+  <StrRes Name="2708" Text="Rechts"/>
+  <StrRes Name="2709" Text="Unten"/>
+  <StrRes Name="2710" Text="Ränder   "/>
+  <StrRes Name="2711" Text="Papierzufuhr   "/>
+  <StrRes Name="2712" Text="Erste Seite"/>
+  <StrRes Name="2713" Text="Weitere Seiten"/>
+  <StrRes Name="2714" Text="Hochformat"/>
+  <StrRes Name="2715" Text="Querformat"/>
+  <StrRes Name="2716" Text="Weitere Optionen"/>
+  <StrRes Name="2717" Text="Spalten   "/>
+  <StrRes Name="2718" Text="Anzahl"/>
+  <StrRes Name="2719" Text="Breite"/>
+  <StrRes Name="2720" Text="Positionen"/>
+  <StrRes Name="2721" Text="Sonstiges"/>
+  <StrRes Name="2722" Text="Duplex"/>
+  <StrRes Name="2723" Text="Auf vorige Seite drucken"/>
+  <StrRes Name="2724" Text="Ränder spiegeln"/>
+  <StrRes Name="2725" Text="Seitenhöhe im Entwurfsmodus vergrößern"/>
+  <StrRes Name="2726" Text="Endlose Seitenbreite"/>
+  <StrRes Name="2727" Text="Endlose Seitenhöhe"/>
+  <StrRes Name="2800" Text="Datasets für Report auswählen"/>
+  <StrRes Name="2900" Text="Variablen"/>
+  <StrRes Name="2901" Text="Kategorie"/>
+  <StrRes Name="2902" Text="Variable"/>
+  <StrRes Name="2903" Text="Bearbeiten"/>
+  <StrRes Name="2904" Text="Löschen"/>
+  <StrRes Name="2905" Text="Liste"/>
+  <StrRes Name="2906" Text="Öffnen"/>
+  <StrRes Name="2907" Text="Speichern"/>
+  <StrRes Name="2908" Text=" Ausdruck:"/>
+  <StrRes Name="2909" Text="Wörterbuch (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Wörterbuch (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(Keine Variablen definiert)"/>
+  <StrRes Name="vaVar" Text="Variablen"/>
+  <StrRes Name="vaDupName" Text="Doppelter Name"/>
+  <StrRes Name="3000" Text="Designer-Optionen"/>
+  <StrRes Name="3001" Text="Gitter   "/>
+  <StrRes Name="3002" Text="Typ"/>
+  <StrRes Name="3003" Text="Größe"/>
+  <StrRes Name="3004" Text="Dialogformular:"/>
+  <StrRes Name="3005" Text="Sonstiges"/>
+  <StrRes Name="3006" Text="Schriftarten   "/>
+  <StrRes Name="3007" Text="Code-Editor"/>
+  <StrRes Name="3008" Text="Memo-Editor"/>
+  <StrRes Name="3009" Text="Größe"/>
+  <StrRes Name="3010" Text="Größe"/>
+  <StrRes Name="3011" Text="Farben   "/>
+  <StrRes Name="3012" Text="Abstand zwischen Bändern:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="Zoll"/>
+  <StrRes Name="3015" Text="Punkt"/>
+  <StrRes Name="3016" Text="Punkt"/>
+  <StrRes Name="3017" Text="Punkt"/>
+  <StrRes Name="3018" Text="Zentimeter:"/>
+  <StrRes Name="3019" Text="Zoll:"/>
+  <StrRes Name="3020" Text="Pixel:"/>
+  <StrRes Name="3021" Text="Gitter anzeigen"/>
+  <StrRes Name="3022" Text="Am Gitter ausrichten"/>
+  <StrRes Name="3023" Text="Editor nach dem Einfügen anzeigen"/>
+  <StrRes Name="3024" Text="Schrift des Objekts verwenden"/>
+  <StrRes Name="3025" Text="Arbeitsbereich"/>
+  <StrRes Name="3026" Text="Werkzeugfenster"/>
+  <StrRes Name="3027" Text="LCD Gitterfarbe"/>
+  <StrRes Name="3028" Text="Freie Bandpositionierung"/>
+  <StrRes Name="3029" Text="Drop-Down Feldliste anzeigen"/>
+  <StrRes Name="3030" Text="Start-Bildschirm anzeigen"/>
+  <StrRes Name="3031" Text="Zurücksetzen"/>
+  <StrRes Name="3032" Text="Bandbezeichnungen anzeigen"/>
+  <StrRes Name="3100" Text="DataSet auswählen"/>
+  <StrRes Name="3101" Text="Anzahl Datensätze:"/>
+  <StrRes Name="dbNotAssigned" Text="[nicht zugeordnet]"/>
+  <StrRes Name="3200" Text="Gruppe"/>
+  <StrRes Name="3201" Text="Gruppenwechsel bei"/>
+  <StrRes Name="3202" Text="Optionen   "/>
+  <StrRes Name="3203" Text="Datenfeld"/>
+  <StrRes Name="3204" Text="Ausdruck"/>
+  <StrRes Name="3205" Text="Gruppe zusammenhalten"/>
+  <StrRes Name="3206" Text="Neue Seite beginnen"/>
+  <StrRes Name="3207" Text="Im Baum zeigen"/>
+  <StrRes Name="3300" Text="System Memo"/>
+  <StrRes Name="3301" Text="Datenband"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="Datenfeld"/>
+  <StrRes Name="3304" Text="Funktion"/>
+  <StrRes Name="3305" Text="Ausdruck"/>
+  <StrRes Name="3306" Text="Aggregatwert"/>
+  <StrRes Name="3307" Text="Systemvariable"/>
+  <StrRes Name="3308" Text="Unsichtbare Bänder zählen"/>
+  <StrRes Name="3309" Text="Text"/>
+  <StrRes Name="3310" Text="Kumulative Summe"/>
+  <StrRes Name="agAggregate" Text="Aggregat einfügen"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] of [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE Objekt"/>
+  <StrRes Name="3401" Text="Einfügen..."/>
+  <StrRes Name="3402" Text="Bearbeiten..."/>
+  <StrRes Name="3403" Text="Schließen"/>
+  <StrRes Name="olStretched" Text="Gedehnt"/>
+  <StrRes Name="3500" Text="Barcode-Editor"/>
+  <StrRes Name="3501" Text="Code"/>
+  <StrRes Name="3502" Text="Typ des Barcodes"/>
+  <StrRes Name="3503" Text="Zoom:"/>
+  <StrRes Name="3504" Text="Optionen   "/>
+  <StrRes Name="3505" Text="Drehung   "/>
+  <StrRes Name="3506" Text="Checksumme berechnen "/>
+  <StrRes Name="3507" Text="Text"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Checksumme berechnen"/>
+  <StrRes Name="bcShowText" Text="Text anzeigen"/>
+  <StrRes Name="3600" Text="Aliase bearbeiten"/>
+  <StrRes Name="3601" Text="Enter drücken zum Bearbeiten"/>
+  <StrRes Name="3602" Text="Dataset-Alias"/>
+  <StrRes Name="3603" Text="Feld-Aliase"/>
+  <StrRes Name="3604" Text="Zurücksetzen"/>
+  <StrRes Name="3605" Text="Aktualisieren"/>
+  <StrRes Name="alUserName" Text="Benutzername"/>
+  <StrRes Name="alOriginal" Text="Originalname"/>
+  <StrRes Name="3700" Text="Parameter-Editor"/>
+  <StrRes Name="qpName" Text="Name"/>
+  <StrRes Name="qpDataType" Text="Datentyp"/>
+  <StrRes Name="qpValue" Text="Wert"/>
+  <StrRes Name="3800" Text="Master-Detail-Verknüpfung"/>
+  <StrRes Name="3801" Text="Detailfelder"/>
+  <StrRes Name="3802" Text="Masterfelder"/>
+  <StrRes Name="3803" Text="Verknüpfte Felder"/>
+  <StrRes Name="3804" Text="Hinzufügen"/>
+  <StrRes Name="3805" Text="Löschen"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Ausdruck einfügen"/>
+  <StrRes Name="3902" Text="Aggregat einfügen"/>
+  <StrRes Name="3903" Text="Formatierung einfügen"/>
+  <StrRes Name="3904" Text="Zeilenumbruch"/>
+  <StrRes Name="3905" Text="Text"/>
+  <StrRes Name="3906" Text="Format"/>
+  <StrRes Name="3907" Text="Highlight"/>
+  <StrRes Name="4000" Text="Bild"/>
+  <StrRes Name="4001" Text="Öffnen"/>
+  <StrRes Name="4002" Text="Kopieren"/>
+  <StrRes Name="4003" Text="Einfügen"/>
+  <StrRes Name="4004" Text="Löschen"/>
+  <StrRes Name="piEmpty" Text="Leer"/>
+  <StrRes Name="4100" Text="Diagramm-Editor"/>
+  <StrRes Name="4101" Text="Serien hinzufügen"/>
+  <StrRes Name="4102" Text="Serien löschen"/>
+  <StrRes Name="4103" Text="Diagramm bearbeiten"/>
+  <StrRes Name="4104" Text="Band Quelle"/>
+  <StrRes Name="4105" Text="Fixe Daten"/>
+  <StrRes Name="4106" Text="Dataset"/>
+  <StrRes Name="4107" Text="Datenquelle"/>
+  <StrRes Name="4108" Text="Werte"/>
+  <StrRes Name="4109" Text="Bitte Diagrammserie auswählen oder eine neue hinzufügen."/>
+  <StrRes Name="4114" Text="Sonstige Optionen   "/>
+  <StrRes Name="4115" Text="ErsteN Werte"/>
+  <StrRes Name="4116" Text="ErsteN Beschriftung"/>
+  <StrRes Name="4117" Text="Sortierfolge"/>
+  <StrRes Name="4126" Text="X Achse"/>
+  <StrRes Name="ch3D" Text="3D Ansicht"/>
+  <StrRes Name="chAxis" Text="Achsen anzeigen"/>
+  <StrRes Name="chsoNone" Text="Kein"/>
+  <StrRes Name="chsoAscending" Text="Aufsteigend"/>
+  <StrRes Name="chsoDescending" Text="Absteigend"/>
+  <StrRes Name="chxtText" Text="Text"/>
+  <StrRes Name="chxtNumber" Text="Zahl"/>
+  <StrRes Name="chxtDate" Text="Datum"/>
+  <StrRes Name="4200" Text="RichText Editor"/>
+  <StrRes Name="4201" Text="Datei öffnen"/>
+  <StrRes Name="4202" Text="Datei speichern"/>
+  <StrRes Name="4203" Text="Rückgängig"/>
+  <StrRes Name="4204" Text="Schrift"/>
+  <StrRes Name="4205" Text="Ausdruck einfügen"/>
+  <StrRes Name="4206" Text="Fett"/>
+  <StrRes Name="4207" Text="Kursiv"/>
+  <StrRes Name="4208" Text="Unterstrichen"/>
+  <StrRes Name="4209" Text="Linksbündig"/>
+  <StrRes Name="4210" Text="Zentriert"/>
+  <StrRes Name="4211" Text="Rechtsbündig"/>
+  <StrRes Name="4212" Text="Blocksatz"/>
+  <StrRes Name="4213" Text="Aufzählung"/>
+  <StrRes Name="4300" Text="Cross-tab Editor"/>
+  <StrRes Name="4301" Text="Quelldaten   "/>
+  <StrRes Name="4302" Text="Dimensionen   "/>
+  <StrRes Name="4303" Text="Zeilen"/>
+  <StrRes Name="4304" Text="Spalten"/>
+  <StrRes Name="4305" Text="Zellen"/>
+  <StrRes Name="4306" Text="Cross-tab Struktur   "/>
+  <StrRes Name="4307" Text="Zeilenkopf"/>
+  <StrRes Name="4308" Text="Spaltenkopf"/>
+  <StrRes Name="4309" Text="Zeilengesamtsumme"/>
+  <StrRes Name="4310" Text="Spaltengesamtsumme"/>
+  <StrRes Name="4311" Text="Zeilen/Spalten vertauschen"/>
+  <StrRes Name="4312" Text="Stil auswählen"/>
+  <StrRes Name="4313" Text="Speichere aktuellen Stil..."/>
+  <StrRes Name="4314" Text="Zeige Titel"/>
+  <StrRes Name="4315" Text="Zeige Ränder"/>
+  <StrRes Name="4316" Text="Kopf auf neuer Seite wiederholen"/>
+  <StrRes Name="4317" Text="Größe automatisch"/>
+  <StrRes Name="4318" Text="Umrahmung der Zellen"/>
+  <StrRes Name="4319" Text="Druckrichtung erst nach unten dann gegenüberliegend"/>
+  <StrRes Name="4320" Text="Zellen Seite an Seite"/>
+  <StrRes Name="4321" Text="Verbinde gleiche Zellen"/>
+  <StrRes Name="4322" Text="Kein"/>
+  <StrRes Name="4323" Text="Summe"/>
+  <StrRes Name="4324" Text="Minimum"/>
+  <StrRes Name="4325" Text="Maximum"/>
+  <StrRes Name="4326" Text="Mittelwert"/>
+  <StrRes Name="4327" Text="Anzahl"/>
+  <StrRes Name="4328" Text="Aufsteigend (A-Z)"/>
+  <StrRes Name="4329" Text="Absteigend (Z-A)"/>
+  <StrRes Name="4330" Text="Keine Sortierung"/>
+  <StrRes Name="crStName" Text="Namen des Stils eingeben:"/>
+  <StrRes Name="crResize" Text="!To resize a cross-tab, set its &#38;#34;AutoSize&#38;#34; property to False."/>
+  <StrRes Name="crSubtotal" Text="Zwischensumme"/>
+  <StrRes Name="crNone" Text="Kein"/>
+  <StrRes Name="crSum" Text="Summe"/>
+  <StrRes Name="crMin" Text="Minimum"/>
+  <StrRes Name="crMax" Text="Maximum"/>
+  <StrRes Name="crAvg" Text="Mittelwert"/>
+  <StrRes Name="crCount" Text="Anzahl"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="Ausdruckseditor"/>
+  <StrRes Name="4401" Text="Ausdruck:"/>
+  <StrRes Name="4500" Text="Anzeigeformat"/>
+  <StrRes Name="4501" Text="Kategorie"/>
+  <StrRes Name="4502" Text="Format"/>
+  <StrRes Name="4503" Text="Formatstring:"/>
+  <StrRes Name="4504" Text="Dezimaltrenner:"/>
+  <StrRes Name="fkText" Text="Text (ohne Format)"/>
+  <StrRes Name="fkNumber" Text="Zahl"/>
+  <StrRes Name="fkDateTime" Text="Datum/Zeit"/>
+  <StrRes Name="fkBoolean" Text="Wahrheitswert"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="28.11.2002;dd.mm.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="Nein,Ja;Nein,Ja"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="Hervorheben"/>
+  <StrRes Name="4601" Text="Farbe..."/>
+  <StrRes Name="4602" Text="Farbe..."/>
+  <StrRes Name="4603" Text="Bedingung   "/>
+  <StrRes Name="4604" Text="Schrift   "/>
+  <StrRes Name="4605" Text="Hintergrund   "/>
+  <StrRes Name="4606" Text="Fett"/>
+  <StrRes Name="4607" Text="Kursiv"/>
+  <StrRes Name="4608" Text="Unterstrichen"/>
+  <StrRes Name="4609" Text="Transparent"/>
+  <StrRes Name="4610" Text="Andere"/>
+  <StrRes Name="4700" Text="Reporteinstellungen"/>
+  <StrRes Name="4701" Text="Allgemein"/>
+  <StrRes Name="4702" Text="Druckereinstellungen   "/>
+  <StrRes Name="4703" Text="Kopien"/>
+  <StrRes Name="4704" Text="Allgemein   "/>
+  <StrRes Name="4705" Text="Passwort"/>
+  <StrRes Name="4706" Text="Kopien sortieren"/>
+  <StrRes Name="4707" Text="Zweipass"/>
+  <StrRes Name="4708" Text="Drucken wenn leer"/>
+  <StrRes Name="4709" Text="Beschreibung"/>
+  <StrRes Name="4710" Text="Name"/>
+  <StrRes Name="4711" Text="Beschreibung"/>
+  <StrRes Name="4712" Text="Bild"/>
+  <StrRes Name="4713" Text="Autor"/>
+  <StrRes Name="4714" Text="Major"/>
+  <StrRes Name="4715" Text="Minor"/>
+  <StrRes Name="4716" Text="Release"/>
+  <StrRes Name="4717" Text="Build"/>
+  <StrRes Name="4718" Text="Erstellt"/>
+  <StrRes Name="4719" Text="Geändert"/>
+  <StrRes Name="4720" Text="Beschreibung   "/>
+  <StrRes Name="4721" Text="Version   "/>
+  <StrRes Name="4722" Text="Wählen..."/>
+  <StrRes Name="4723" Text="Vererbungseinstellungen"/>
+  <StrRes Name="4724" Text="Wähle die Option:"/>
+  <StrRes Name="4725" Text="Nicht ändern"/>
+  <StrRes Name="4726" Text="Basisreport ablösen"/>
+  <StrRes Name="4727" Text="Von Basisreport erben:"/>
+  <StrRes Name="4728" Text="Vererbung"/>
+  <StrRes Name="rePrnOnPort" Text="an"/>
+  <StrRes Name="riNotInherited" Text="Dieser Report ist nicht ererbt."/>
+  <StrRes Name="riInherited" Text="Dieser Report ist ererbt von Basisreport: %s"/>
+  <StrRes Name="4800" Text="Zeilen"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Query Builder"/>
+  <StrRes Name="5000" Text="Passwort"/>
+  <StrRes Name="5001" Text="Passwort eingeben:"/>
+  <StrRes Name="5100" Text="Stileditor"/>
+  <StrRes Name="5101" Text="Farbe..."/>
+  <StrRes Name="5102" Text="Schrift..."/>
+  <StrRes Name="5103" Text="Rahmen..."/>
+  <StrRes Name="5104" Text="Hinzufügen"/>
+  <StrRes Name="5105" Text="Löschen"/>
+  <StrRes Name="5106" Text="Bearbeiten"/>
+  <StrRes Name="5107" Text="Öffnen"/>
+  <StrRes Name="5108" Text="Speichern"/>
+  <StrRes Name="5200" Text="Rahmeneditor"/>
+  <StrRes Name="5201" Text="Rahmen"/>
+  <StrRes Name="5202" Text="Rahmenlinie"/>
+  <StrRes Name="5203" Text="Schatten"/>
+  <StrRes Name="5204" Text="Linie oben"/>
+  <StrRes Name="5205" Text="Linie unten"/>
+  <StrRes Name="5206" Text="Linie links"/>
+  <StrRes Name="5207" Text="Linie rechts"/>
+  <StrRes Name="5208" Text="Alle Rahmenlinien"/>
+  <StrRes Name="5209" Text="Kein Rahmen"/>
+  <StrRes Name="5210" Text="Rahmenfarbe"/>
+  <StrRes Name="5211" Text="Rahmenstil"/>
+  <StrRes Name="5212" Text="Rahmenbreite"/>
+  <StrRes Name="5213" Text="Schatten"/>
+  <StrRes Name="5214" Text="Schattenfarbe"/>
+  <StrRes Name="5215" Text="Schattentiefe"/>
+  <StrRes Name="5300" Text="Neues Element"/>
+  <StrRes Name="5301" Text="Elemente"/>
+  <StrRes Name="5302" Text="Vorlagen"/>
+  <StrRes Name="5303" Text="Report erben"/>
+  <StrRes Name="5400" Text="Tab-Reihenfolge"/>
+  <StrRes Name="5401" Text="Elemente in Tab-Reihenfolge:"/>
+  <StrRes Name="5402" Text="Nach oben"/>
+  <StrRes Name="5403" Text="Nach unten"/>
+  <StrRes Name="5500" Text="Auswerten"/>
+  <StrRes Name="5501" Text="Ausdruck"/>
+  <StrRes Name="5502" Text="Ergebnis"/>
+  <StrRes Name="5600" Text="Report Assistent"/>
+  <StrRes Name="5601" Text="Daten"/>
+  <StrRes Name="5602" Text="Felder"/>
+  <StrRes Name="5603" Text="Gruppen"/>
+  <StrRes Name="5604" Text="Layout"/>
+  <StrRes Name="5605" Text="Stil"/>
+  <StrRes Name="5606" Text="Schritt 1. DataSet auswählen."/>
+  <StrRes Name="5607" Text="Schritt 2. Anzuzeigende Felder auswählen."/>
+  <StrRes Name="5608" Text="Schritt 3. Gruppen erstellen (optional)."/>
+  <StrRes Name="5609" Text="Schritt 4. Seiten- und Datenlayout festlegen."/>
+  <StrRes Name="5610" Text="Schritt 5. Berichtsstil auswählen."/>
+  <StrRes Name="5611" Text=" &#62;"/>
+  <StrRes Name="5612" Text=" &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60;"/>
+  <StrRes Name="5614" Text="&#60;&#60;"/>
+  <StrRes Name="5615" Text="Gruppe &#62;"/>
+  <StrRes Name="5616" Text="&#60; Gruppe"/>
+  <StrRes Name="5617" Text="Gewählte Felder:"/>
+  <StrRes Name="5618" Text="Verfügbare Felder:"/>
+  <StrRes Name="5619" Text="Gruppen:"/>
+  <StrRes Name="5620" Text="Ausrichtung   "/>
+  <StrRes Name="5621" Text="Layout   "/>
+  <StrRes Name="5622" Text="Hochformat"/>
+  <StrRes Name="5623" Text="Querformat"/>
+  <StrRes Name="5624" Text="Tabellenform"/>
+  <StrRes Name="5625" Text="in Spalten"/>
+  <StrRes Name="5626" Text="Felder an Seitenbreite anpassen"/>
+  <StrRes Name="5627" Text="&#60;&#60; Zurück"/>
+  <StrRes Name="5628" Text="Weiter &#62;&#62;"/>
+  <StrRes Name="5629" Text="Fertig"/>
+  <StrRes Name="5630" Text="Neue Tabelle..."/>
+  <StrRes Name="5631" Text="Neue Abfrage..."/>
+  <StrRes Name="5632" Text="Datenbankverbindung auswählen:"/>
+  <StrRes Name="5633" Text="Tabelle auswählen:"/>
+  <StrRes Name="5634" Text="oder"/>
+  <StrRes Name="5635" Text="Abfrage erstellen..."/>
+  <StrRes Name="5636" Text="Verbindungen konfigurieren"/>
+  <StrRes Name="wzStd" Text="Standard Report Assistent"/>
+  <StrRes Name="wzDMP" Text="Dot-Matrix Report Assistent"/>
+  <StrRes Name="wzStdEmpty" Text="Standard Report"/>
+  <StrRes Name="wzDMPEmpty" Text="Dot-Matrix Report"/>
+  <StrRes Name="5700" Text="Verbindungs-Assistent"/>
+  <StrRes Name="5701" Text="Verbindung"/>
+  <StrRes Name="5702" Text="Verbindungstyp auswählen:"/>
+  <StrRes Name="5703" Text="Datenbank auswählen:"/>
+  <StrRes Name="5704" Text="Benutzername"/>
+  <StrRes Name="5705" Text="Kennwort"/>
+  <StrRes Name="5706" Text="Anmeldedialog anzeigen"/>
+  <StrRes Name="5707" Text="Verwende Benutzername/Kennwort:"/>
+  <StrRes Name="5708" Text="Tabelle"/>
+  <StrRes Name="5709" Text="Tabellenname auswählen:"/>
+  <StrRes Name="5710" Text="Datensatzfilter:"/>
+  <StrRes Name="5711" Text="Abfrage"/>
+  <StrRes Name="5712" Text="SQL Abfrage:"/>
+  <StrRes Name="5713" Text="Query Builder"/>
+  <StrRes Name="5714" Text="Abfragen-Parameter bearbeiten"/>
+  <StrRes Name="ftAllFiles" Text="Alle Dateien"/>
+  <StrRes Name="ftPictures" Text="Bilder"/>
+  <StrRes Name="ftDB" Text="Datenbanken"/>
+  <StrRes Name="ftRichFile" Text="RichText-Datei"/>
+  <StrRes Name="ftTextFile" Text="Textdatei"/>
+  <StrRes Name="prNotAssigned" Text="(Nicht zugeordnet)"/>
+  <StrRes Name="prInvProp" Text="Ungültiger Eigenschaftswert"/>
+  <StrRes Name="prDupl" Text="Doppelter Name"/>
+  <StrRes Name="prPict" Text="(Bild)"/>
+  <StrRes Name="mvExpr" Text="Ausdrücke erlauben"/>
+  <StrRes Name="mvStretch" Text="Dehnen"/>
+  <StrRes Name="mvStretchToMax" Text="Auf Maximalhöhe dehnen"/>
+  <StrRes Name="mvShift" Text="Verschieben"/>
+  <StrRes Name="mvShiftOver" Text="Verschieben wenn Überlappung"/>
+  <StrRes Name="mvVisible" Text="Sichtbar"/>
+  <StrRes Name="mvPrintable" Text="Druckbar"/>
+  <StrRes Name="mvFont" Text="Schrift..."/>
+  <StrRes Name="mvFormat" Text="Anzeigeformat..."/>
+  <StrRes Name="mvClear" Text="Inhalt löschen"/>
+  <StrRes Name="mvAutoWidth" Text="Breite automatisch"/>
+  <StrRes Name="mvWWrap" Text="Zeilenumbruch"/>
+  <StrRes Name="mvSuppress" Text="Wiederholte Werte unterdrücken"/>
+  <StrRes Name="mvHideZ" Text="Nullen verbergen"/>
+  <StrRes Name="mvHTML" Text="HTML Tags erlauben"/>
+  <StrRes Name="lvDiagonal" Text="Diagonal"/>
+  <StrRes Name="pvAutoSize" Text="Größe automatisch"/>
+  <StrRes Name="pvCenter" Text="Zentrieren"/>
+  <StrRes Name="pvAspect" Text="Seitenverhältnis behalten"/>
+  <StrRes Name="bvSplit" Text="Aufteilung erlauben"/>
+  <StrRes Name="bvKeepChild" Text="Child zusammenhalten"/>
+  <StrRes Name="bvPrintChild" Text="Child drucken wenn unsichtbar"/>
+  <StrRes Name="bvStartPage" Text="Neue Seite"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Drucken wenn Detail leer"/>
+  <StrRes Name="bvKeepDetail" Text="Detail zusammenhalten"/>
+  <StrRes Name="bvKeepFooter" Text="Fuß zusammenhalten"/>
+  <StrRes Name="bvReprint" Text="Auf neuer Seite wiederholen"/>
+  <StrRes Name="bvOnFirst" Text="Auf erster Seite drucken"/>
+  <StrRes Name="bvOnLast" Text="Auf letzer Seite drucken"/>
+  <StrRes Name="bvKeepGroup" Text="Zusammenhalten"/>
+  <StrRes Name="bvFooterAfterEach" Text="Fuß nach jeder Zeile"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Seitennummern zurücksetzten"/>
+  <StrRes Name="srParent" Text="Druck auf Parent"/>
+  <StrRes Name="bvKeepHeader" Text="Kopf zusammenhalten"/>
+  <StrRes Name="obCatDraw" Text="Zeichnen"/>
+  <StrRes Name="obCatOther" Text="Andere Objekte"/>
+  <StrRes Name="obCatOtherControls" Text="Andere Elemente"/>
+  <StrRes Name="obDiagLine" Text="Diagonale Linie"/>
+  <StrRes Name="obRect" Text="Rechteck"/>
+  <StrRes Name="obRoundRect" Text="Abgerundetes Rechteck"/>
+  <StrRes Name="obEllipse" Text="Ellipse"/>
+  <StrRes Name="obTrian" Text="Dreieck"/>
+  <StrRes Name="obDiamond" Text="Raute"/>
+  <StrRes Name="obLabel" Text="Fixtext"/>
+  <StrRes Name="obEdit" Text="Eingabefeld"/>
+  <StrRes Name="obMemoC" Text="Memo"/>
+  <StrRes Name="obButton" Text="Schaltfläche"/>
+  <StrRes Name="obChBoxC" Text="Kontrollkästchen"/>
+  <StrRes Name="obRButton" Text="Optionsfeld"/>
+  <StrRes Name="obLBox" Text="Listenfeld"/>
+  <StrRes Name="obCBox" Text="Kombinationsfeld"/>
+  <StrRes Name="obDateEdit" Text="Datumseingabefeld"/>
+  <StrRes Name="obImageC" Text="Bild"/>
+  <StrRes Name="obPanel" Text="Panel"/>
+  <StrRes Name="obGrBox" Text="Optionsgruppe"/>
+  <StrRes Name="obBBtn" Text="Schaltfläche mit Bild"/>
+  <StrRes Name="obSBtn" Text="Schalter"/>
+  <StrRes Name="obMEdit" Text="Eingabefeld mit Maske"/>
+  <StrRes Name="obChLB" Text="Liste mit Kontrollkästchen"/>
+  <StrRes Name="obDBLookup" Text="Nachschlagefeld"/>
+  <StrRes Name="obBevel" Text="Rahmen"/>
+  <StrRes Name="obShape" Text="Figur"/>
+  <StrRes Name="obText" Text="Text"/>
+  <StrRes Name="obSysText" Text="Systemtext"/>
+  <StrRes Name="obLine" Text="Linie"/>
+  <StrRes Name="obPicture" Text="Grafik"/>
+  <StrRes Name="obBand" Text="Band"/>
+  <StrRes Name="obDataBand" Text="Datenband"/>
+  <StrRes Name="obSubRep" Text="Unterreport"/>
+  <StrRes Name="obDlgPage" Text="Dialogformular"/>
+  <StrRes Name="obRepPage" Text="Reportseite"/>
+  <StrRes Name="obReport" Text="Report"/>
+  <StrRes Name="obRich" Text="RichText"/>
+  <StrRes Name="obOLE" Text="OLE Objekt"/>
+  <StrRes Name="obChBox" Text="Kontrollkästchen"/>
+  <StrRes Name="obChart" Text="Diagramm"/>
+  <StrRes Name="obBarC" Text="Barcode"/>
+  <StrRes Name="obCross" Text="Cross-tab Objekt"/>
+  <StrRes Name="obDBCross" Text="Datenbank Cross-tab Objekt"/>
+  <StrRes Name="obGrad" Text="Verlauf"/>
+  <StrRes Name="obDMPText" Text="Dot-matrix Text"/>
+  <StrRes Name="obDMPLine" Text="Dot-matrix Linie"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix Befehlsobjekt"/>
+  <StrRes Name="obBDEDB" Text="BDE Datenbank"/>
+  <StrRes Name="obBDETb" Text="BDE Tabelle"/>
+  <StrRes Name="obBDEQ" Text="BDE Abfrage"/>
+  <StrRes Name="obBDEComps" Text="BDE Komponenten"/>
+  <StrRes Name="obIBXDB" Text="IBX Datenbank"/>
+  <StrRes Name="obIBXTb" Text="IBX Tabelle"/>
+  <StrRes Name="obIBXQ" Text="IBX Abfrage"/>
+  <StrRes Name="obIBXComps" Text="IBX Komponenten"/>
+  <StrRes Name="obADODB" Text="ADO Datenbank"/>
+  <StrRes Name="obADOTb" Text="ADO Tabelle"/>
+  <StrRes Name="obADOQ" Text="ADO Abfrage"/>
+  <StrRes Name="obADOComps" Text="ADO Komponenten"/>
+  <StrRes Name="obDBXDB" Text="DBX Datenbank"/>
+  <StrRes Name="obDBXTb" Text="DBX Tabelle"/>
+  <StrRes Name="obDBXQ" Text="DBX Abfrage"/>
+  <StrRes Name="obDBXComps" Text="DBX Komponenten"/>
+  <StrRes Name="obFIBDB" Text="FIB Datenbank"/>
+  <StrRes Name="obFIBTb" Text="FIB Tabelle"/>
+  <StrRes Name="obFIBQ" Text="FIB Abfrage"/>
+  <StrRes Name="obFIBComps" Text="FIB Komponenten"/>
+  <StrRes Name="ctString" Text="Zeichenkette"/>
+  <StrRes Name="ctDate" Text="Datum/Zeit"/>
+  <StrRes Name="ctConv" Text="Konvertierung"/>
+  <StrRes Name="ctFormat" Text="Formatierung"/>
+  <StrRes Name="ctMath" Text="Mathematisch"/>
+  <StrRes Name="ctOther" Text="Andere"/>
+  <StrRes Name="IntToStr" Text="Konvertiert einen Ganzzahlwert in eine Zeichenkette"/>
+  <StrRes Name="FloatToStr" Text="Konvertiert einen Fließkommawert in eine Zeichenkette"/>
+  <StrRes Name="DateToStr" Text="Konvertiert einen Datumswert in eine Zeichenkette"/>
+  <StrRes Name="TimeToStr" Text="Konvertiert einen Zeitwert in eine Zeichenkette"/>
+  <StrRes Name="DateTimeToStr" Text="Konvertiert einen Datums-und-Zeitwert in eine Zeichenkette"/>
+  <StrRes Name="VarToStr" Text="Konvertiert einen Variantwert in eine Zeichenkette"/>
+  <StrRes Name="StrToInt" Text="Konvertiert eine Zeichenkette in einen Ganzzahlwert"/>
+  <StrRes Name="StrToInt64" Text="Konvertiert eine Zeichenkette in einen Int64 Wert"/>
+  <StrRes Name="StrToFloat" Text="Konvertiert eine Zeichenkette in einen Fließkommawert"/>
+  <StrRes Name="StrToDate" Text="Konvertiert eine Zeichenkette in einen Datumswert"/>
+  <StrRes Name="StrToTime" Text="Konvertiert eine Zeichenkette in einen Zeitwert"/>
+  <StrRes Name="StrToDateTime" Text="Konvertiert eine Zeichenkette in einen Datums-und-Zeitwert"/>
+  <StrRes Name="Format" Text="Liefert aus einer Reihe von Arrayargumenten eine formatierte Zeichenkette"/>
+  <StrRes Name="FormatFloat" Text="Formatiert einen Fließkommawert"/>
+  <StrRes Name="FormatDateTime" Text="Formatiert einen Datums-und-Zeitwert"/>
+  <StrRes Name="FormatMaskText" Text="Liefert eine gemäß edit-mask formatierte Zeichenkette"/>
+  <StrRes Name="EncodeDate" Text="Liefert einen Datums-/Zeittyp für angegebenes Jahr, Monat und Tag"/>
+  <StrRes Name="DecodeDate" Text="Zerlegt Datums-/Zeittyp in Jahr, Monat und Tag"/>
+  <StrRes Name="EncodeTime" Text="Liefert einen Datums-/Zeittyp für angegebene Stunde, Minute, Sekunde und MilliSekunde"/>
+  <StrRes Name="DecodeTime" Text="Zerlegt Datums-/Zeittyp in Stunde, Minute, Sekunde und MilliSekunde"/>
+  <StrRes Name="Date" Text="Liefert aktuelles Datum"/>
+  <StrRes Name="Time" Text="Liefert aktuelle Zeit"/>
+  <StrRes Name="Now" Text="Liefert aktuelles Datum und Zeit"/>
+  <StrRes Name="DayOfWeek" Text="Liefert Wochentag für angegebenes Datum"/>
+  <StrRes Name="IsLeapYear" Text="Zeigt an, ob angegebenes Jahr ein Schaltjahr ist"/>
+  <StrRes Name="DaysInMonth" Text="Liefert Anzahl der Tage für angegebenen Monat"/>
+  <StrRes Name="Length" Text="Liefert Länge einer Zeichenkette"/>
+  <StrRes Name="Copy" Text="Liefert eine Teilzeichenkette einer Zeichenkette"/>
+  <StrRes Name="Pos" Text="Liefert Position eine Teilzeichenkette in einer Zeichenkette"/>
+  <StrRes Name="Delete" Text="Entfernt eine Teilzeichenkette aus einer Zeichenkette"/>
+  <StrRes Name="Insert" Text="Fügt eine Teilzeichenkette in eine Zeichenkette ein"/>
+  <StrRes Name="Uppercase" Text="Konvertiert alle Zeichen einer Zeichenkette in Großbuchstaben"/>
+  <StrRes Name="Lowercase" Text="Konvertiert alle Zeichen einer Zeichenkette in Kleinbuchstaben"/>
+  <StrRes Name="Trim" Text="Entfernt alle führenden und nachfolgenden Leerzeichen aus einer Zeichenkette"/>
+  <StrRes Name="NameCase" Text="Konvertiert den ersten Buchstaben eines Wortes in Großbuchstaben"/>
+  <StrRes Name="CompareText" Text="Vergleicht zwei Zeichenketten"/>
+  <StrRes Name="Chr" Text="Konvertiert einen Ganzzahlwert in einen Buchstaben"/>
+  <StrRes Name="Ord" Text="Konvertiert einen Buchstaben in einen Ganzzahlwert"/>
+  <StrRes Name="SetLength" Text="Setzt die Länge einer Zeichenkette"/>
+  <StrRes Name="Round" Text="Rundet einen Fließkommawert zum nächsten Ganzzahlwert"/>
+  <StrRes Name="Trunc" Text="Schneidet Nachkommastellen eines Fließkommawerts ab"/>
+  <StrRes Name="Int" Text="Liefert den Ganzzahlanteil eines Fließkommawerts"/>
+  <StrRes Name="Frac" Text="Liefert den Nachkommaanteil eines Fließkommawerts"/>
+  <StrRes Name="Sqrt" Text="Liefert die Quadratwurzel einer angegebenen Zahl"/>
+  <StrRes Name="Abs" Text="Liefert einen Absolutwert"/>
+  <StrRes Name="Sin" Text="Liefert den Sinus eines Winkels (in radians)"/>
+  <StrRes Name="Cos" Text="Liefert den Cosinus eines Winkels (in radians)"/>
+  <StrRes Name="ArcTan" Text="Liefert den Arcustangens"/>
+  <StrRes Name="Tan" Text="Liefert den Tangens"/>
+  <StrRes Name="Exp" Text="Liefert den Exponent"/>
+  <StrRes Name="Ln" Text="Liefert den natürlichen Logarithmus eines Fließkommaausdrucks"/>
+  <StrRes Name="Pi" Text="Liefert 3.1415926... (Pi)"/>
+  <StrRes Name="Inc" Text="Erhöht einen Wert"/>
+  <StrRes Name="Dec" Text="Vermindert einen Wert"/>
+  <StrRes Name="RaiseException" Text="Löst eine exception aus"/>
+  <StrRes Name="ShowMessage" Text="Zeigt ein Meldungsfenster"/>
+  <StrRes Name="Randomize" Text="Startete den Zufallsgenerator"/>
+  <StrRes Name="Random" Text="Liefert eine Zufallszahl"/>
+  <StrRes Name="ValidInt" Text="Liefert True wenn die angegebene Zeichenkette einen gültigen Ganzzahlwert enthält"/>
+  <StrRes Name="ValidFloat" Text="Liefert True wenn die angegebene Zeichenkette einen gültigen Fließkommawert enthält"/>
+  <StrRes Name="ValidDate" Text="Liefert True wenn die angegebene Zeichenkette einen gültigen Datumswert enthält"/>
+  <StrRes Name="IIF" Text="Liefert TrueValue wenn angegebener Ausdruck wahr ist, ansonsten FalseValue"/>
+  <StrRes Name="Get" Text="Zum internen Gebrauch"/>
+  <StrRes Name="Set" Text="Zum internen Gebrauch"/>
+  <StrRes Name="InputBox" Text="Zeigt ein Eingabefenster zur Eingabe einer Zeichenkette an"/>
+  <StrRes Name="InputQuery" Text="Zeigt ein Eingabefenster zur Eingabe einer Zeichenkette an"/>
+  <StrRes Name="MessageDlg" Text="Zeigt ein Meldungsfenster"/>
+  <StrRes Name="CreateOleObject" Text="Erzeugt ein OLE Objekt"/>
+  <StrRes Name="VarArrayCreate" Text="Erzeugt ein Variantarray"/>
+  <StrRes Name="VarType" Text="Liefert den Typ eines Varinatwertes"/>
+  <StrRes Name="DayOf" Text="Liefert den Tag (1..31) eines Datums"/>
+  <StrRes Name="MonthOf" Text="Liefert den Monat (1..12) eines Datums"/>
+  <StrRes Name="YearOf" Text="Liefert das Jahr eines Datums"/>
+  <StrRes Name="ctAggregate" Text="Aggregate"/>
+  <StrRes Name="Sum" Text="Berechnet die Summe des Ausdrucks für die Datenmenge"/>
+  <StrRes Name="Avg" Text="Berechnet den Durchschnitt des Ausdrucks für die Datenmenge"/>
+  <StrRes Name="Min" Text="Berechnet das Minimum des Ausdrucks für die Datenmenge"/>
+  <StrRes Name="Max" Text="Berechnet das Maximum des Ausdrucks für die Datenmenge"/>
+  <StrRes Name="Count" Text="Zählt die Anzahl der Datensätze"/>
+  <StrRes Name="wzDBConn" Text="Assistent für neue Verbindung"/>
+  <StrRes Name="wzDBTable" Text="Assistent für neue Tabellen"/>
+  <StrRes Name="wzDBQuery" Text="Assistent für neue Abfragen"/>
+  <StrRes Name="5800" Text="Verbindungen"/>
+  <StrRes Name="5801" Text="Neu"/>
+  <StrRes Name="5802" Text="Löschen"/>
+  <StrRes Name="cpName" Text="Name"/>
+  <StrRes Name="cpConnStr" Text="Verbindungs-Zeichenfolge"/>
+  <StrRes Name="startCreateNew" Text="Neuen Report erstellen"/>
+  <StrRes Name="startCreateBlank" Text="Leeren Report erstellen"/>
+  <StrRes Name="startOpenReport" Text="Report öffnen"/>
+  <StrRes Name="startOpenLast" Text="Letzten Report öffnen"/>
+  <StrRes Name="startEditAliases" Text="Verbindungsaliase bearbeiten"/>
+  <StrRes Name="startHelp" Text="Hilfe"/>
+  <StrRes Name="5900" Text="Überwachungen"/>
+  <StrRes Name="5901" Text="Überwachung hinzufügen"/>
+  <StrRes Name="5902" Text="Überwachung löschen "/>
+  <StrRes Name="5903" Text="Überwachung ändern"/>
+  <StrRes Name="6000" Text="Vererbungsfehler"/>
+  <StrRes Name="6001" Text="Basisreport und vererbter Report enthalten doppelte Objekte. Wie soll verfahren werden?"/>
+  <StrRes Name="6002" Text="Duplikate löschen"/>
+  <StrRes Name="6003" Text="Duplikate umbenennen"/>
+  <StrRes Name="8000" Text="Excel-Export"/>
+  <StrRes Name="8001" Text="Stile"/>
+  <StrRes Name="8002" Text="Bilder"/>
+  <StrRes Name="8003" Text="Zellen verbinden"/>
+  <StrRes Name="8004" Text="Fast export"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Als Text"/>
+  <StrRes Name="8007" Text="Hintergrund"/>
+  <StrRes Name="8008" Text="Excel nach Export öffnen"/>
+  <StrRes Name="8009" Text="Exceldatei (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Excel-Export"/>
+  <StrRes Name="8101" Text="Stile"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Hintergrund"/>
+  <StrRes Name="8104" Text="Excel nach Export öffnen"/>
+  <StrRes Name="8105" Text="XML Exceldatei (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Export in HTML Tabelle"/>
+  <StrRes Name="8201" Text="Nach Export öffnen"/>
+  <StrRes Name="8202" Text="Stile"/>
+  <StrRes Name="8203" Text="Bilder"/>
+  <StrRes Name="8204" Text="Alles in einen Ordner"/>
+  <StrRes Name="8205" Text="Feste Breite"/>
+  <StrRes Name="8206" Text="Seitennavigator"/>
+  <StrRes Name="8207" Text="Mehrfachseite"/>
+  <StrRes Name="8208" Text="Mozilla-Browser"/>
+  <StrRes Name="8209" Text="Hintergrund"/>
+  <StrRes Name="8210" Text="HTML-Datei (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Textexport (dot-matrix Drucker)"/>
+  <StrRes Name="8301" Text="Vorschau ein/aus"/>
+  <StrRes Name="8302" Text=" Exporteigenschaften  "/>
+  <StrRes Name="8303" Text="Seitenumbrüche"/>
+  <StrRes Name="8304" Text="OEM Zeichensatz"/>
+  <StrRes Name="8305" Text="Leerzeilen"/>
+  <StrRes Name="8306" Text="Führende Leerzeichen"/>
+  <StrRes Name="8307" Text="Seitennummern"/>
+  <StrRes Name="8308" Text="Seitennummern und/oder Seitenbereiche durch Komma getrennt eingeben, z.B. 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Skalierung "/>
+  <StrRes Name="8310" Text="X Skalierung"/>
+  <StrRes Name="8311" Text="Y Skalierung"/>
+  <StrRes Name="8312" Text=" Rahmen "/>
+  <StrRes Name="8313" Text="Kein"/>
+  <StrRes Name="8314" Text="Einfach"/>
+  <StrRes Name="8315" Text="Grafisch"/>
+  <StrRes Name="8316" Text="Nur mit OEM Zeichensatz"/>
+  <StrRes Name="8317" Text="Nach Export drucken"/>
+  <StrRes Name="8318" Text="Einstellungen speichern"/>
+  <StrRes Name="8319" Text=" Vorschau "/>
+  <StrRes Name="8320" Text="Breite:"/>
+  <StrRes Name="8321" Text="Höhe:"/>
+  <StrRes Name="8322" Text="Seite"/>
+  <StrRes Name="8323" Text="Einzoomen"/>
+  <StrRes Name="8324" Text="Auszoomen"/>
+  <StrRes Name="8325" Text="Textdatei (dot-matrix Drucker)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Drucken"/>
+  <StrRes Name="8401" Text="Drucker"/>
+  <StrRes Name="8402" Text="Name"/>
+  <StrRes Name="8403" Text="Konfiguration..."/>
+  <StrRes Name="8404" Text="Kopien"/>
+  <StrRes Name="8405" Text="Anzahl der Kopien"/>
+  <StrRes Name="8406" Text=" Druckersetup "/>
+  <StrRes Name="8407" Text="Druckertyp"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Druckerinit Vorlage (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Druckerinit Vorlage (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="RTF-Export"/>
+  <StrRes Name="8501" Text="Bilder"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Nach Export öffnen"/>
+  <StrRes Name="8504" Text="RTF Datei (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Exporteinstellungen"/>
+  <StrRes Name="8601" Text="Bildeinstellungen "/>
+  <StrRes Name="8602" Text="JPEG Qualität"/>
+  <StrRes Name="8603" Text="Auflösung (dpi)"/>
+  <StrRes Name="8604" Text="Einzelne Dateien"/>
+  <StrRes Name="8605" Text="Seiten zuschneiden"/>
+  <StrRes Name="8606" Text="Schwarz/Weiss"/>
+  <StrRes Name="8700" Text="PDF Export"/>
+  <StrRes Name="8701" Text="Komprimiert"/>
+  <StrRes Name="8702" Text="Schriften einbetten"/>
+  <StrRes Name="8703" Text="Druckoptimiert"/>
+  <StrRes Name="8704" Text="Lesezeichen"/>
+  <StrRes Name="8705" Text="Hintergrund"/>
+  <StrRes Name="8706" Text="Nach Export öffnen"/>
+  <StrRes Name="8707" Text="Adobe PDF-Datei (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="RTF Datei"/>
+  <StrRes Name="BMPexport" Text="BMP Bild"/>
+  <StrRes Name="JPEGexport" Text="JPEG Bild"/>
+  <StrRes Name="TIFFexport" Text="TIFF Bild"/>
+  <StrRes Name="TextExport" Text="Text (matrix Drucker)"/>
+  <StrRes Name="XlsOLEexport" Text="Excel Tabelle (OLE)"/>
+  <StrRes Name="HTMLexport" Text="HTML Datei"/>
+  <StrRes Name="XlsXMLexport" Text="Excel Tabelle (XML)"/>
+  <StrRes Name="PDFexport" Text="PDF Datei"/>
+  <StrRes Name="ProgressWait" Text="Bitte warten"/>
+  <StrRes Name="ProgressRows" Text="Bearbeite Zeilen"/>
+  <StrRes Name="ProgressColumns" Text="Bearbeite Spalten"/>
+  <StrRes Name="ProgressStyles" Text="Bearbeite Stile"/>
+  <StrRes Name="ProgressObjects" Text="Exportiere Objekte"/>
+  <StrRes Name="TIFFexportFilter" Text="Tiff Bild (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="BMP Bild (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Jpeg Bild (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Erste"/>
+  <StrRes Name="HTMLNavPrev" Text="Vorherige"/>
+  <StrRes Name="HTMLNavNext" Text="Nächste"/>
+  <StrRes Name="HTMLNavLast" Text="Letzte"/>
+  <StrRes Name="HTMLNavRefresh" Text="Neu laden"/>
+  <StrRes Name="HTMLNavPrint" Text="Drucken"/>
+  <StrRes Name="HTMLNavTotal" Text="Gesamt"/>
+  <StrRes Name="8800" Text="Exportieren als Text"/>
+  <StrRes Name="8801" Text="Text-Datei (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Textdatei"/>
+  <StrRes Name="8850" Text="Exportieren als CSV"/>
+  <StrRes Name="8851" Text="CSV Datei (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Trennzeichen"/>
+  <StrRes Name="CSVExport" Text="CSV Datei"/>
+  <StrRes Name="8900" Text="Senden als eMail"/>
+  <StrRes Name="8901" Text="eMail"/>
+  <StrRes Name="8902" Text="eMail Konto"/>
+  <StrRes Name="8903" Text="Verbindung"/>
+  <StrRes Name="8904" Text="Adresse"/>
+  <StrRes Name="8905" Text="Anhang"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="Absender Adresse"/>
+  <StrRes Name="8908" Text="Absender Name"/>
+  <StrRes Name="8909" Text="Server"/>
+  <StrRes Name="8910" Text="Login"/>
+  <StrRes Name="8911" Text="Nachricht"/>
+  <StrRes Name="8912" Text="Nachricht"/>
+  <StrRes Name="8913" Text="Text"/>
+  <StrRes Name="8914" Text="Organisation"/>
+  <StrRes Name="8915" Text="Kennwort"/>
+  <StrRes Name="8916" Text="Port"/>
+  <StrRes Name="8917" Text="Eigenschaften speichern"/>
+  <StrRes Name="8918" Text="Pflichtfelder nicht ausgefüllt"/>
+  <StrRes Name="8919" Text="Erweiterte Export Einstellungen"/>
+  <StrRes Name="8920" Text="Signatur"/>
+  <StrRes Name="8921" Text="Erstellen"/>
+  <StrRes Name="8922" Text="Betreff"/>
+  <StrRes Name="8923" Text="Mit freundlichen Grüssen"/>
+  <StrRes Name="8924" Text="Mail senden an"/>
+  <StrRes Name="EmailExport" Text="eMail"/>
+  <StrRes Name="FastReportFile" Text="FastReport Datei"/>
+  <StrRes Name="GifexportFilter" Text="Gif Datei (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif Bild"/>
+  <StrRes Name="8950" Text="Weiter"/>
+  <StrRes Name="8951" Text="Seiten Kopf/Fuß"/>
+  <StrRes Name="8952" Text="Text"/>
+  <StrRes Name="8953" Text="Kopf/Fuß"/>
+  <StrRes Name="8954" Text="Nichts"/>
+  <StrRes Name="ODSExportFilter" Text="OpenDocument Tabellendokument Datei (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="OpenDocument Tabellendokument"/>
+  <StrRes Name="ODTExportFilter" Text="OpenDocument Text Datei (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="OpenDocument Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Sicherheit"/>
+  <StrRes Name="8963" Text="Sicherheitseinstellungen"/>
+  <StrRes Name="8964" Text="Eigentümer-Password"/>
+  <StrRes Name="8965" Text="Benutzer-Password"/>
+  <StrRes Name="8966" Text="Dokument drucken"/>
+  <StrRes Name="8967" Text="Dokument ändern"/>
+  <StrRes Name="8968" Text="Text und Grafik kopieren"/>
+  <StrRes Name="8969" Text="Anmerkungen einfügen oder ändern"/>
+  <StrRes Name="8970" Text="PDF Sicherheit"/>
+  <StrRes Name="8971" Text="Dokument-Information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Titel"/>
+  <StrRes Name="8974" Text="Autor"/>
+  <StrRes Name="8975" Text="Betrifft"/>
+  <StrRes Name="8976" Text="Schlüsselwörter"/>
+  <StrRes Name="8977" Text="Ersteller"/>
+  <StrRes Name="8978" Text="Produzent"/>
+  <StrRes Name="8979" Text="Authentifizierung"/>
+  <StrRes Name="8980" Text="Genehmigungen"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="bevorzugte Viewer-Einstellungen"/>
+  <StrRes Name="8983" Text="Toolbar verstecken"/>
+  <StrRes Name="8984" Text="Menüleiste verstecken"/>
+  <StrRes Name="8985" Text="User-Interface-Fenster verstecken"/>
+  <StrRes Name="8986" Text="Fenster automatisch anpassen"/>
+  <StrRes Name="8987" Text="Fenster zentrieren"/>
+  <StrRes Name="8988" Text="Skalierung drucken"/>
+  <StrRes Name="propActive" Text="Legt fest, ob ein Dataset geöffnet ist"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Legt fest, ob Hervorhebung aktiv ist"/>
+  <StrRes Name="propAliasName" Text="Name des BDE-Alias"/>
+  <StrRes Name="propAlign" Text="Legt die Ausrichtung des Objektes relativ zum Band oder der Seite fest"/>
+  <StrRes Name="propAlignment" Text="Ausrichtung des Textes des Objekts"/>
+  <StrRes Name="propAllowAllUp" Text="Legt fest, ob alle Schalter in der Gruppe zugleich ausgeschaltet sein dürfen"/>
+  <StrRes Name="propAllowEdit" Text="Legt fest, ob fertige Reportseiten bearbeitet werden können"/>
+  <StrRes Name="propAllowExpressions" Text="Legt fest, ob das Textobjekt Ausdrücke im Text enthalten darf"/>
+  <StrRes Name="propAllowGrayed" Text="Erlaubt Grauzustand eines Kontrollkästchens"/>
+  <StrRes Name="propAllowHTMLTags" Text="Legt fest, ob das Textobjekt HTML tags im Text enthalten darf"/>
+  <StrRes Name="propAllowSplit" Text="Legt fest, ob das Band seinen Inhalt über mehrere Seiten aufteilen darf"/>
+  <StrRes Name="propAuthor" Text="Der Autor des Reports"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Legt fest, ob das Bild seine Größe automatisch berechnet"/>
+  <StrRes Name="propAutoWidth" Text="Legt fest, ob das Textobjekt seine Breite automatisch berechnet"/>
+  <StrRes Name="propBackPicture" Text="Hintergrundbild"/>
+  <StrRes Name="propBarType" Text="Der Typ des Barcodes"/>
+  <StrRes Name="propBevelInner" Text="Der Typ des inneren Rahmens"/>
+  <StrRes Name="propBevelOuter" Text="Der Typ des äußeren Rahmens"/>
+  <StrRes Name="propBevelWidth" Text="Die Breite des Rahmens"/>
+  <StrRes Name="propBorder" Text="Legt fest, ob der äußere Rahmen angezeigt wird"/>
+  <StrRes Name="propBorderStyle" Text="Der Stil des Fensters"/>
+  <StrRes Name="propBottomMargin" Text="Die Größe des unteren Seitenrandes"/>
+  <StrRes Name="propBrushStyle" Text="Der Pinselstil für den Hintergrund des Objektes"/>
+  <StrRes Name="propCalcCheckSum" Text="Legt fest, ob der Barcode die Checksumme automatisch berechnet"/>
+  <StrRes Name="propCancel" Text="Legt fest, ob der Schalter druch Drücken von Escape aktiviert wird"/>
+  <StrRes Name="propCaption" Text="Beschriftung des Objektes"/>
+  <StrRes Name="propCellFields" Text="Namen der DB Felder repräsentieren die Kreuzzellen"/>
+  <StrRes Name="propCellLevels" Text="Anzahl der Zellebenen"/>
+  <StrRes Name="propCenter" Text="Legt fest, ob das Bild innerhalb des Objektes zentriert wird"/>
+  <StrRes Name="propCharset" Text="Zeichensatz der Schrift"/>
+  <StrRes Name="propCharSpacing" Text="Anzahl der Pixel zwischen zwei Zeichen"/>
+  <StrRes Name="propCheckColor" Text="Farbe des Häkchens"/>
+  <StrRes Name="propChecked" Text="Legt fest, ob das Objekt angehakt ist"/>
+  <StrRes Name="propCheckStyle" Text="Stil des Häkchens"/>
+  <StrRes Name="propChild" Text="Childband mit diesem Band verknüpft"/>
+  <StrRes Name="propClipped" Text="Legt fest, obder Text innerhalb des Objektes abgeschnitten wird"/>
+  <StrRes Name="propCollate" Text="Vorgabeeinstellung der Sortierung"/>
+  <StrRes Name="propColor.TFont" Text="Die Farbe des Textes"/>
+  <StrRes Name="propColor" Text="Die Farbe des Objektes"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Die Farbe des Rahmens"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Legt die Farbe des Objektes fest, wenn Hervorhebung aktiv ist"/>
+  <StrRes Name="propColumnFields" Text="Feldnamen repräsentieren Kreuzspalten"/>
+  <StrRes Name="propColumnGap" Text="Der Abstand zwischen den Spalten"/>
+  <StrRes Name="propColumnLevels" Text="Anzahl der Spaltenebenen"/>
+  <StrRes Name="propColumns" Text="Anzahl der Spalten im Band"/>
+  <StrRes Name="propColumnWidth" Text="Die Breite der Spalte des Bandes"/>
+  <StrRes Name="propCondition" Text="Die Gruppenbedingung. Gruppenumbruch erfolgt, wenn dieser Wert wechselt"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Ausdruck. Wenn dieser Ausdruck wahr ist, wird Hervorhebung aktiviert"/>
+  <StrRes Name="propConnected" Text="Legt fest, ob die Datenbankverbindung aktiv ist"/>
+  <StrRes Name="propConvertNulls" Text="Legt fest, ob Nullwerte in der Datenbank in 0, False oder leere Zeichenkette konvertiert werden"/>
+  <StrRes Name="propCopies" Text="Vorgabewert der Kopienanzahl"/>
+  <StrRes Name="propCursor" Text="Cursor des Objektes"/>
+  <StrRes Name="propDatabaseName" Text="Der Name der Datenbank"/>
+  <StrRes Name="propDataField" Text="Legt das Feld fest, von dem das Objekt die Daten erhält"/>
+  <StrRes Name="propDataSet" Text="Verbindet das Objekt mit dem Dataset, das das Datenfeld enthält"/>
+  <StrRes Name="propDate" Text="Der Datumswert des Objektes"/>
+  <StrRes Name="propDateFormat" Text="Legt fest, ion welchen Format das Datum angezeigt wird"/>
+  <StrRes Name="propDecimalSeparator" Text="Das Dezimaltrennzeichen"/>
+  <StrRes Name="propDefault" Text="Legt fest, ob die Schaltfläche die Standardschaltfläche ist"/>
+  <StrRes Name="propDefHeight" Text="Vorgabe der Zeilenhöhe"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Die Reportbeschreibung"/>
+  <StrRes Name="propDescription" Text="Die Reportbeschreibung"/>
+  <StrRes Name="propDiagonal" Text="Legt fest, dass die Linie diagonal verläuft"/>
+  <StrRes Name="propDisplayFormat" Text="Das Anzeigeformat"/>
+  <StrRes Name="propDoublePass" Text="Legt fest, ob die Reportengine den zweiten Durchlauf startet"/>
+  <StrRes Name="propDown" Text="Legt fest, ob der Schalter gedrpckt ist"/>
+  <StrRes Name="propDownThenAcross" Text="Legt fest, wie große Tabellen auf Seiten aufgeteilt werden"/>
+  <StrRes Name="propDriverName" Text="Der Name des BDE Treibers"/>
+  <StrRes Name="propDropShadow" Text="Legt fest, ob das Objekt einen Schatten hat"/>
+  <StrRes Name="propDuplex" Text="Legt den Duplexmodus für die Seite fest"/>
+  <StrRes Name="propEditMask" Text="Legt die Eingabe-/Anzeigemaske für das Objekt fest"/>
+  <StrRes Name="propEnabled" Text="Legt fest, ob das Objekt abgeblendet ist"/>
+  <StrRes Name="propEngineOptions" Text="Die Engineoptionen für den Report"/>
+  <StrRes Name="propExpression" Text="Der Wert dieses Ausdrucks wird im Objekt angezeigt"/>
+  <StrRes Name="propExpressionDelimiters" Text="Diese Zeichen begrenzen einen Ausdruck im Text"/>
+  <StrRes Name="propFieldAliases" Text="Feldaliase des Datasets"/>
+  <StrRes Name="propFilter" Text="Die Filterbedingung des Datasets"/>
+  <StrRes Name="propFiltered" Text="Legt fest, ob das Dataset die Sätze gemäß Filterbedingung filtert"/>
+  <StrRes Name="propFlowTo" Text="Das Textobjekt, das überzähligen Text anzeigt"/>
+  <StrRes Name="propFont" Text="Die Schriftattribute des Objektes"/>
+  <StrRes Name="propFooterAfterEach" Text="Legt fest, ob das Fußband nach jeder Datenzeile angezeigt wird"/>
+  <StrRes Name="propFormatStr" Text="Die Foramtzeichenkette"/>
+  <StrRes Name="propFrame" Text="Die Rahmeneigenschaften des Objektes"/>
+  <StrRes Name="propGapX" Text="Der linke Abstand des Textes"/>
+  <StrRes Name="propGapY" Text="Der obere Abstand des Textes"/>
+  <StrRes Name="propGlyph" Text="Das Bild des Objektes"/>
+  <StrRes Name="propGroupIndex" Text="Fasst Schalter zu einer Gruppe zusammen"/>
+  <StrRes Name="propHAlign" Text="Die horizontale Ausrichtung des Textes"/>
+  <StrRes Name="propHeight" Text="Die Höhe des Objektes"/>
+  <StrRes Name="propHideZeros" Text="Legt fest, ob Nullwerte unterdrückt werden"/>
+  <StrRes Name="propHighlight" Text="Die Eigenschaften der bedingten Hervorhebung"/>
+  <StrRes Name="propIndexName" Text="Der Name des Index"/>
+  <StrRes Name="propInitString" Text="Drucker init Zeichenkette für dot-matrix Reports"/>
+  <StrRes Name="propItems" Text="Listet die Elemente des Objekts"/>
+  <StrRes Name="propKeepAspectRatio" Text="Behält das Seitenverhältnis des Bildes"/>
+  <StrRes Name="propKeepChild" Text="Legt fest, ob das Band zusammen mit dem Child gedruckt wird"/>
+  <StrRes Name="propKeepFooter" Text="Legt fest, ob das Band zusammen mit dem Fuß gedruckt wird"/>
+  <StrRes Name="propKeepHeader" Text="Legt fest, ob das Band zusammen mit seinem Kopf gedruckt wird"/>
+  <StrRes Name="propKeepTogether" Text="Legt fest, ob das Band zusammen mit allen Unterbändern gedruckt wird"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Die Art der Formatierung"/>
+  <StrRes Name="propKind" Text="Die Art der Schaltfläche"/>
+  <StrRes Name="propLargeDesignHeight" Text="Legt fest, ob die Seite im Entwurfsmodus vergößert wird"/>
+  <StrRes Name="propLayout" Text="Anordnung des Bildes auf der Schaltfläche"/>
+  <StrRes Name="propLeft" Text="Die linke Koordinate des Objekts"/>
+  <StrRes Name="propLeftMargin" Text="Die Größe des linken Seitenrandes"/>
+  <StrRes Name="propLines" Text="Der Text des Objektes"/>
+  <StrRes Name="propLineSpacing" Text="Der Abstand zwischen zwei Textzeilen in Pixel"/>
+  <StrRes Name="propLoginPrompt" Text="Legt fest, ob der Anmeldedialog angezeigt wird"/>
+  <StrRes Name="propMargin" Text="Legt die Anzahl der Pixel zwischen dem Bildrand und dem Rand der Schaltfläche fest"/>
+  <StrRes Name="propMaster" Text="Das Hauptdataset"/>
+  <StrRes Name="propMasterFields" Text="Die Felder, die durch Master-Detailbeziehung verbunden sind"/>
+  <StrRes Name="propMaxLength" Text="Maximale Textlänge"/>
+  <StrRes Name="propMaxWidth" Text="Maximale Breite der Spalte"/>
+  <StrRes Name="propMemo" Text="Der Text des Objektes"/>
+  <StrRes Name="propMinWidth" Text="Minimale Breite der Spalte"/>
+  <StrRes Name="propMirrorMargins" Text="Seitenränder auf geraden Seiten spiegeln"/>
+  <StrRes Name="propModalResult" Text="Legt fest, ob und wie die Schaltfläche das modale Formular schließt"/>
+  <StrRes Name="propName.TFont" Text="Der Name der Schrift"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Der Name des Reports"/>
+  <StrRes Name="propName" Text="Der Name des Objekts"/>
+  <StrRes Name="propNumGlyphs" Text="Legt die Anzahl der Bilder fest, die in der Grafik sind, die in der Glypheigenschaft definiert ist"/>
+  <StrRes Name="propOpenDataSource" Text="Legt fest, ob die Datasource automatisch geöffnet wird"/>
+  <StrRes Name="propOrientation" Text="Die Ausrichtung der Seite"/>
+  <StrRes Name="propOutlineText" Text="Der Text, der im Report-Baumdiagramm des Vorschaufensters angezeigt wird"/>
+  <StrRes Name="propOutlineVisible" Text="Die Sichtbarkeit des Report-Baumdiagramms im Vorschaufenster"/>
+  <StrRes Name="propOutlineWidth" Text="Die Breite des Report-Baumdiagramms"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Die Nummer der Seiten, die gedruckt werden (1,2,4-10)"/>
+  <StrRes Name="propPaperHeight" Text="Die Höhe der Seite"/>
+  <StrRes Name="propPaperWidth" Text="Die Breite der Seite"/>
+  <StrRes Name="propParagraphGap" Text="Der Erstzeileneinzug des Absatzes"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Die Parameter der Verbindung"/>
+  <StrRes Name="propParams" Text="Die Parameter der Abfrage"/>
+  <StrRes Name="propParentFont" Text="Legt fest, ob das Objekt Schrifteinstellungen übernimmt"/>
+  <StrRes Name="propPassword" Text="Das Passwort des Reports"/>
+  <StrRes Name="propPasswordChar" Text="Legt das Zeichen fest, das an Stelle des Originalzeichens bei Passwörtern erscheint"/>
+  <StrRes Name="propPicture" Text="Das Bild"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Die Bildbeschreibung des Reports"/>
+  <StrRes Name="propPosition" Text="Die Anfangsposition des Fensters"/>
+  <StrRes Name="propPreviewOptions" Text="Die Vorschauoptionen des Reports"/>
+  <StrRes Name="propPrintable" Text="Druckbarkeit des Objektes. Wenn False, wird das Objekt in der Vorschau angezeigt, aber nicht gedruckt"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Legt fest, ob das Childband gedruckt wird, wenn das Hauptband unsichtbar ist"/>
+  <StrRes Name="propPrinter" Text="Der Name des Druckers, der beim Öffnen oder Erstellen des Reports verwendet wird"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Legt fest, ob das Datenband gedruckt wird, wenn sein Unterband leer ist"/>
+  <StrRes Name="propPrintIfEmpty" Text="Legt fest, ob die Seite gedruckt wird, wenn alle Datasets leer sind"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Legt fest, ob das Band auf der ersten Seite gedruckt wird"/>
+  <StrRes Name="propPrintOnLastPage" Text="Legt fest, ob das Band auf der letzten Seite gedruckt wird"/>
+  <StrRes Name="propPrintOnParent" Text="Legt fest, ob der Unterreport auf dem Hauptband gedruckt wird"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Legt fest, ob die Seite auf dem verbleibenden freien Platz der vorigen Seite erzeugt wird"/>
+  <StrRes Name="propPrintOptions" Text="Druckoptionen des Reports"/>
+  <StrRes Name="propPrintPages" Text="Legt fest, ob alle, ungerade oder gerade Seiten gedruckt werden"/>
+  <StrRes Name="propRangeBegin" Text="Legt den Anfang des Datasetdurchlaufes fest"/>
+  <StrRes Name="propRangeEnd" Text="Legt das Ende des Datasetdurchlaufes fest"/>
+  <StrRes Name="propRangeEndCount" Text="Legt die Anzahl der Datensätze fest, wenn das Durchlaufende auf reCount gesetzt ist"/>
+  <StrRes Name="propReadOnly" Text="Legt Nur-Lesen-Eigenschaft des Objektes fest"/>
+  <StrRes Name="propRepeatHeaders" Text="Legt fest, Spalten/Zeilenkopf auf jeder neuen Seite wiederholt wird"/>
+  <StrRes Name="propReportOptions" Text="Die Optionen des Reports"/>
+  <StrRes Name="propReprintOnNewPage" Text="Legt fest, ob das Band auf jeder neuen Seite wiederholt wird"/>
+  <StrRes Name="propRestrictions" Text="Gruppe von Einschränkungen"/>
+  <StrRes Name="propRightMargin" Text="Die Größe des rechten Randes"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Die Ausrichtung des Barcodes"/>
+  <StrRes Name="propRotation" Text="Die Textdrehung"/>
+  <StrRes Name="propRowCount" Text="Anzahl der virtuellen Sätze im Datenband"/>
+  <StrRes Name="propRowFields" Text="Feldnamen repräsentieren Kreuzzeilen"/>
+  <StrRes Name="propRowLevels" Text="Anzahl der Zeilenebenen"/>
+  <StrRes Name="propRTLReading" Text="Legt fest, ob der Text von rechts nach links dargestellt wird"/>
+  <StrRes Name="propSessionName" Text="Der Name der BDE session"/>
+  <StrRes Name="propShadowColor" Text="Die Farbe des Schattens"/>
+  <StrRes Name="propShadowWidth" Text="Die Breite des Schattens"/>
+  <StrRes Name="propShape" Text="Der Typ der Figur"/>
+  <StrRes Name="propShiftMode" Text="Verschiebeverhalten des Objektes"/>
+  <StrRes Name="propShowColumnHeader" Text="Legt fest, ob Cross-tab Spaltenköpfe anzeigt"/>
+  <StrRes Name="propShowColumnTotal" Text="Legt fest, ob Cross-tab Gesamtsummen der Spalten anzeigt"/>
+  <StrRes Name="propShowRowHeader" Text="Legt fest, ob Cross-tab Zeilenköpfe anzeigt"/>
+  <StrRes Name="propShowRowTotal" Text="Legt fest, ob Cross-tab Gesamtsummen der Zeilen anzeigt"/>
+  <StrRes Name="propShowDialog" Text="Legt fest, ob der Druckdialog im Vorschaufenster angezeigt wird"/>
+  <StrRes Name="propShowText" Text="Legt fest, ob das Barcodeobjekt lesbaren Text anzeigt"/>
+  <StrRes Name="propSize" Text="Die Größe der Schrift"/>
+  <StrRes Name="propSorted" Text="Legt fest, ob die Elemente sortiert werden"/>
+  <StrRes Name="propSpacing" Text="Legt die die Anzahl der Pixel zwischen Bild und Text fest"/>
+  <StrRes Name="propSQL" Text="Der SQL Befehl"/>
+  <StrRes Name="propStartNewPage" Text="Beginnt eine neue Seite bevor das Band gedruckt wird"/>
+  <StrRes Name="propStretch" Text="Dehnt das Bild bis zur Objektgröße"/>
+  <StrRes Name="propStretched" Text="Legt fest, ob das Objekt gedehnt werden kann"/>
+  <StrRes Name="propStretchMode" Text="Dehnverhalten des Objektes"/>
+  <StrRes Name="propStyle.TFont" Text="Der Stil der Schrift"/>
+  <StrRes Name="propStyle" Text="Der Stil des Objektes"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Der Rahmenstil des Objektes"/>
+  <StrRes Name="propSuppressRepeated" Text="Wiederholte Werte unterdrücken"/>
+  <StrRes Name="propTableName" Text="Der Name der Datentabelle"/>
+  <StrRes Name="propTag" Text="Tagnummer des Objektes"/>
+  <StrRes Name="propTagStr" Text="Tagzeichenkette des Objektes"/>
+  <StrRes Name="propText" Text="Der Text des Objektes"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Legt fest, ob Reporttitel vor dem Seitenkopf angezeigt wird"/>
+  <StrRes Name="propTop" Text="Die obere Koordinate des Objektes"/>
+  <StrRes Name="propTopMargin" Text="Die Größe des oberen Seitenrandes"/>
+  <StrRes Name="propTyp" Text="Der Typ des Rahmens"/>
+  <StrRes Name="propUnderlines" Text="Legt fest, ob das Textobjekt Gitterlinien nach jeder Textzeile anzeigt"/>
+  <StrRes Name="propURL" Text="Die URL des Objekts"/>
+  <StrRes Name="propUserName" Text="Username des Datenobjektes. Dieser Name wird im Datenbaum angezeigt"/>
+  <StrRes Name="propVAlign" Text="Die vertikale Ausrichtung des Textes"/>
+  <StrRes Name="propVersionBuild" Text="Versioninfo, build"/>
+  <StrRes Name="propVersionMajor" Text="Versioninfo, major version"/>
+  <StrRes Name="propVersionMinor" Text="Versioninfo, minor version"/>
+  <StrRes Name="propVersionRelease" Text="Versioninfo, release"/>
+  <StrRes Name="propVisible" Text="Sichtbarkeit des Objektes"/>
+  <StrRes Name="propWidth" Text="Breit des Objektes"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Die Breite des Rahmens"/>
+  <StrRes Name="propWindowState" Text="Anfangsanzeigestatus des Fensters"/>
+  <StrRes Name="propWordBreak" Text="Silbentrennung (russisch)"/>
+  <StrRes Name="propWordWrap" Text="Legt fest, ob das Textobjekt weiche Zeilenschaltungen einfügt"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Zoomt den Barcode"/>
+  <StrRes Name="propConnectionName" Text="Der Name der Verbindung zur Datenbank"/>
+  <StrRes Name="propCurve" Text="Rundungsgrad der Ecken bei einem abgerundeten Rechteck"/>
+  <StrRes Name="propDrillDown" Text="Legt fest ob die Gruppe ausklappbar ist"/>
+  <StrRes Name="propFontStyle" Text="Dot-matrix Font Stil"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Verstecke die Fußzeile wenn die Gruppe nur einen Datensatz aufweist"/>
+  <StrRes Name="propOutlineExpand" Text="Legt fest ob das Report-Baumdiagramm erweitert ist oder nicht"/>
+  <StrRes Name="propPlainCells" Text="Legt fest ob mehrere Zellen Side by Side gedruckt werden oder gestapelt"/>
+  <StrRes Name="propPrintMode" Text="Druckmodus: Standard, Zusammenfügen zu großer Seite, Anpassen, Aufteilen in kleine Seiten"/>
+  <StrRes Name="propPrintOnSheet" Text="Papiergröße auf die gedruckt wird. Wird benutzt wenn der Druckmodus nicht auf pmDefault eingestellt ist"/>
+  <StrRes Name="propResetPageNumbers" Text="Setzt die Seitenzahl/gesamte Seitenanzahl zurück wenn eine Gruppe gedruckt wird. StartNewPage muss auf Wahr gesetzt werden"/>
+  <StrRes Name="propReverse" Text="Legt fest ob die Seiten in umgekehrter Reihenfolge gedruckt werden"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Legt fest ob der Guppenfuß dargestellt wird wenn die Gruppe auf drilldown eingestellt ist"/>
+  <StrRes Name="propSizeMode" Text="Anzeigemodus für das OLE Objekt"/>
+  <StrRes Name="propVersion" Text="Version von FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Bezieht sich auf wide bars beim Barcode"/>
+  <StrRes Name="propWysiwyg" Text="Bestimmt ober das Rich Objekt die Druckereinstellung nutzen soll um den Text zu formatieren. Es muss ein Drucker installiert und bereit sein."/>
+  <StrRes Name="propArrowEnd" Text="Legt fest ob der Pfeil am Ende der Linie gezeichnet wird"/>
+  <StrRes Name="propArrowLength" Text="Länge des Pfeiles"/>
+  <StrRes Name="propArrowSolid" Text="Legt fest ob der Pfeil gefüllt gezeichnet wird"/>
+  <StrRes Name="propArrowStart" Text="Legt fest ob der Pfeil am Anfang der Linie gezeichnet wird"/>
+  <StrRes Name="propArrowWidth" Text="Breite des Pfeiles"/>
+  <StrRes Name="propCloseDataSource" Text="Bestimmt ob die Datenquelle geschlossen werden soll wenn der Report abgeschlossen ist"/>
+  <StrRes Name="propDatabase" Text="Datenbank-Verbindung"/>
+  <StrRes Name="propIndexFieldNames" Text="Name des Index-Feldes"/>
+  <StrRes Name="propCommandTimeOut" Text="Time-Out Zeit eine Abfrage auszuführen"/>
+  <StrRes Name="propExpandDrillDown" Text="Bestimt ob alle drill-down-Elemente beim Start des Reports geöffnet werden sollen "/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Legt fest, ob der Text im WYSIWYG Modus angezeigt wird"/>
+  <StrRes Name="propLeftLine" Text="Linke Linie des Rahmens"/>
+  <StrRes Name="propTopLine" Text="Obere Linie des Rahmens"/>
+  <StrRes Name="propRightLine" Text="Rechte Linie des Rahmens"/>
+  <StrRes Name="propBottomLine" Text="Untere Linie des Rahmens"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Die Rahmenfarbe"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Der Typ der Rahmenlinie"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Die Dicke der Rahmenlinie"/>
+  <StrRes Name="propFileLink" Text="Ausdruck oder Dateinamen einer Bilddatei"/>
+  <StrRes Name="propEndlessWidth" Text="Endlos-Seiten-Modus. Wenn Wahr, dann vergrößert sich die Seite in der Breite in Abhängigkeit der Anzahl der Datensätze "/>
+  <StrRes Name="propEndlessHeight" Text="Endlos-Seiten-Modus. Wenn Wahr, dann vergrößert sich die Seite in der Höhe in Abhängigkeit der Anzahl der Datensätze"/>
+  <StrRes Name="propAddHeight" Text="Fügt angegebene Höhe zur Höhe der Zelle hinzu"/>
+  <StrRes Name="propAddWidth" Text="Fügt angegebene Breite zur Breite der Zelle hinzu"/>
+  <StrRes Name="propAllowDuplicates" Text="Legt fest ob die Zelle doppelt vorhandene Zeichenfolgen akzeptiert"/>
+  <StrRes Name="propJoinEqualCells" Text="Bestimmt ob in einer Kreuztabelle Zellen mit gleichen Werten verbunden werden"/>
+  <StrRes Name="propNextCross" Text="Zeiger zur nächsten Kreuztabelle das 'Side by Side' angezeigt werden soll"/>
+  <StrRes Name="propNextCrossGap" Text="Abstand zwischen den Kreuztabellen 'Side by Side'"/>
+  <StrRes Name="propShowCorner" Text="Bestimmt ob bei der Kreuztabelle ein Links-Oben-Element angezeigt werden soll"/>
+  <StrRes Name="propSuppressNullRecords" Text="Bestimmt ob Datensätze mit NULL-Werten in Kreuztabellen unterdrückt werden sollen"/>
+  <StrRes Name="propShowTitle" Text="Bestimmt ob der Titel einer Kreuztabelle angezeigt werden soll"/>
+  <StrRes Name="propAutoSize" Text="Bestimmt ob die Größe einer Kreuztabelle automatisch bestimmt werden soll"/>
+</Resources>

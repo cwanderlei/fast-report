@@ -1,0 +1,8 @@
+Error BASE/1066  Erro nos parƒmetros: condicional
+Called from D:\Sistemas\DBU\DBULOCK.PRG->FILELOCK(177)
+Called from D:\Sistemas\DBU\DBUCOPY.PRG->CAPPREP(27)
+Called from D:\Sistemas\DBU\DBU.PRG->MAIN(683)
+
+HwGUI 2.17 xHarbour 1.2.3 Intl. (SimpLex) (Build 20150603)
+Date:02/08/2017
+Time:06:56:10

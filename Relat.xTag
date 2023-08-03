@@ -1,0 +1,152 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 06/12/2009 11:47:45                #
+#                                              #
+### Standard xDev TagList - Layout v1.5 ########
+-->
+<taglist>
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="Main" args=" " scope="PUBLIC" type="ptFunction" line="18">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="GenerateItems" args=" " scope="PUBLIC" type="ptFunction" line="155">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="UnloadFr" args=" " scope="PUBLIC" type="ptFunction" line="169">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoFrAction" args="<cFileName>, <lPrepared> " scope="PUBLIC" type="ptFunction" line="176">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoSimpleList" args=" " scope="PUBLIC" type="ptFunction" line="247">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoSimpleGroup" args=" " scope="PUBLIC" type="ptFunction" line="259">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoMoreComplex" args=" " scope="PUBLIC" type="ptFunction" line="271">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoInFR_MoreComplex" args=" " scope="PUBLIC" type="ptFunction" line="294">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="MyManualReport" args=" " scope="PUBLIC" type="ptFunction" line="303">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoManualReport" args=" " scope="PUBLIC" type="ptFunction" line="324">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoMemPict" args=" " scope="PUBLIC" type="ptFunction" line="332">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoUserDS" args=" " scope="PUBLIC" type="ptFunction" line="345">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="GetDSValue" args="<cField> " scope="PUBLIC" type="ptFunction" line="361">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoWAUserDS" args=" " scope="PUBLIC" type="ptFunction" line="383">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoADO" args=" " scope="PUBLIC" type="ptFunction" line="403">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="DoSomeCalls" args=" " scope="PUBLIC" type="ptFunction" line="412">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="GetExportObject" args=" " scope="PUBLIC" type="ptFunction" line="424">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="OnExpRelease" args="<aExpList>, <oLbx>, <aDados> " scope="PUBLIC" type="ptFunction" line="463">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="CallUserFunction" args="<FName>, <FParams> " scope="PUBLIC" type="ptFunction" line="473">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="AllFilesExist" args="<aFiles> " scope="PUBLIC" type="ptFunction" line="487">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="ShowProgress" args="<x>, <y>, <z> " scope="PUBLIC" type="ptFunction" line="500">
+   <tag filename="C:\LIXO_FW\FASTREPORT\demo_fwh.prg" name="ShowProcess" args="<sObjectName> " scope="PUBLIC" type="ptFunction" line="528">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="FRLOAD" args=" " scope="PUBLIC" type="ptFunction" line="50">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="GETFRPROCADDRESS" args=" " scope="PUBLIC" type="ptFunction" line="55">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="FRUNLOAD" args=" " scope="PUBLIC" type="ptFunction" line="60">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_" args=" " scope="PUBLIC" type="ptFunction" line="66">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_I" args=" " scope="PUBLIC" type="ptFunction" line="72">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_C" args=" " scope="PUBLIC" type="ptFunction" line="78">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_IC" args=" " scope="PUBLIC" type="ptFunction" line="84">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_CC" args=" " scope="PUBLIC" type="ptFunction" line="90">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_CCC" args=" " scope="PUBLIC" type="ptFunction" line="96">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_PROC_IIII" args=" " scope="PUBLIC" type="ptFunction" line="103">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC__I" args=" " scope="PUBLIC" type="ptFunction" line="110">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_I_I" args=" " scope="PUBLIC" type="ptFunction" line="116">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_C_I" args=" " scope="PUBLIC" type="ptFunction" line="122">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_II_I" args=" " scope="PUBLIC" type="ptFunction" line="128">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_IC_I" args=" " scope="PUBLIC" type="ptFunction" line="134">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_CC_I" args=" " scope="PUBLIC" type="ptFunction" line="140">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_CCC_I" args=" " scope="PUBLIC" type="ptFunction" line="146">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_CCI_I" args=" " scope="PUBLIC" type="ptFunction" line="152">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_III_I" args=" " scope="PUBLIC" type="ptFunction" line="158">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_CIII_I" args=" " scope="PUBLIC" type="ptFunction" line="164">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="CALL_FUNC_CICCCCCCCC_I" args=" " scope="PUBLIC" type="ptFunction" line="170">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="TmpGetWA" args="<area>, <ptr> " scope="PUBLIC" type="ptCFunction" line="178">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="INITENGINE" args=" " scope="PUBLIC" type="ptFunction" line="185">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Init" args="<cOptionalPath> " scope="PUBLIC" type="ptMethod" line="398">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="DestroyFR" args=" " scope="PUBLIC" type="ptMethod" line="432">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="449">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="FrNotifyError" args="<oError> " scope="PUBLIC" type="ptMethod" line="512">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetIcon" args="<nNumber> " scope="PUBLIC" type="ptMethod" line="552">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetTitle" args="<cTitle> " scope="PUBLIC" type="ptMethod" line="560">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetVisualActions" args="<nAction>, <lTaskListToFalse>, <bBeforeAction>, <bAfterAction> " scope="PUBLIC" type="ptMethod" line="591">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="LoadLangRes" args="<cLangFile> " scope="PUBLIC" type="ptMethod" line="605">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="ShowReport" args="<nNotClear> " scope="PUBLIC" type="ptMethod" line="617">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PrepareReport" args="<nNotClear> " scope="PUBLIC" type="ptMethod" line="629">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="ShowPreparedReport" args=" " scope="PUBLIC" type="ptMethod" line="643">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="DesignReport" args=" " scope="PUBLIC" type="ptMethod" line="654">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="LoadFromFile" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="666">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="LoadFromBlob" args="<nWorkArea>, <cFieldName> " scope="PUBLIC" type="ptMethod" line="675">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SaveToFile" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="683">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SaveToBlob" args="<nWorkArea>, <cFieldName> " scope="PUBLIC" type="ptMethod" line="692">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Clear" args=" " scope="PUBLIC" type="ptMethod" line="700">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="LoadStyleSheet" args="<cFileName> " scope="PUBLIC" type="ptMethod" line="709">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Print" args="<lDialogIsChild> " scope="PUBLIC" type="ptMethod" line="721">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="GetErrors" args=" " scope="PUBLIC" type="ptMethod" line="734">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="DoExport" args="<cExportObjectName> " scope="PUBLIC" type="ptMethod" line="751">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="GetProperty" args="<sObjectName>, <sPropName> " scope="PUBLIC" type="ptMethod" line="786">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetProperty" args="<sObjectName>, <sPropName>, <Value> " scope="PUBLIC" type="ptMethod" line="791">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetEventHandler" args="<cObjectName>, <cPropName>, <bEventHandler> " scope="PUBLIC" type="ptMethod" line="832">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="AddFunction" args="<cFunction>, <cCategory>, <cDescription> " scope="PUBLIC" type="ptMethod" line="845">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="AddVariable" args="<cCategory>, <cName>, <xValue> " scope="PUBLIC" type="ptMethod" line="867">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetVariable" args="<cName>, <xValue> " scope="PUBLIC" type="ptMethod" line="877">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="GetVariable" args="<cName> " scope="PUBLIC" type="ptMethod" line="887">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="DeleteVariable" args="<cName> " scope="PUBLIC" type="ptMethod" line="897">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="DeleteCategory" args="<cCategory> " scope="PUBLIC" type="ptMethod" line="906">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetScriptVar" args="<sName>, <xValue> " scope="PUBLIC" type="ptMethod" line="920">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="GetScriptVar" args="<sName> " scope="PUBLIC" type="ptMethod" line="925">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Calc" args="<sExpression> " scope="PUBLIC" type="ptMethod" line="936">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetWorkArea" args="<cFrAlias>, <nWorkArea>, <lOem>, <aRangeParams> " scope="PUBLIC" type="ptMethod" line="955">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetMasterDetail" args="<cMasterAlias>, <cDetailAlias>, <bScopeValue> " scope="PUBLIC" type="ptMethod" line="970">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetResyncPair" args="<cParentAlias>, <cChildlAlias> " scope="PUBLIC" type="ptMethod" line="984">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetUserDataSet" args="<sFrAlias>, <sFields>, <bGoTop>, <bSkipPlus1>, <bSkipMinus1>, <bCheckEOF>, <bGetValue> " scope="PUBLIC" type="ptMethod" line="996">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Resync" args="<cFrAlias> " scope="PUBLIC" type="ptMethod" line="1007">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetFieldAliases" args="<cFrAlias>, <cFieldAliases> " scope="PUBLIC" type="ptMethod" line="1019">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="RemoveDataSet" args="<cFrAlias> " scope="PUBLIC" type="ptMethod" line="1028">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="ClearDataSets" args=" " scope="PUBLIC" type="ptMethod" line="1037">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="ClearMasterDetail" args="<cDetailAlias> " scope="PUBLIC" type="ptMethod" line="1047">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="ClearResyncPair" args="<cParentAlias>, <cChildlAlias> " scope="PUBLIC" type="ptMethod" line="1057">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetADOConnectStr" args="<sFrAlias>, <sStr> " scope="PUBLIC" type="ptMethod" line="1065">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetADOConnectPartStr" args="<sFrAlias>, <sKey>, <sValue> " scope="PUBLIC" type="ptMethod" line="1075">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="StartManualBuild" args="<bManualBlock>, <nOrientation>, <nPaperSize>, <nUnits> " scope="PUBLIC" type="ptMethod" line="1086">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="MemoAt" args="<cStr>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1095">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetDefaultFontProperty" args="<cPropName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1101">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="NewPage" args=" " scope="PUBLIC" type="ptMethod" line="1107">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetManualObjProperty" args="<cObjName>, <cPropName>, <xValue> " scope="PUBLIC" type="ptMethod" line="1112">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="LineAt" args="<nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1118">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PictureAt" args="<cFileName>, <nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1124">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SendMail" args="<cServer>, <nPort>, <cUserField>, <cPasswordField>, <cFromField>, <cToField>, <cSubjectField>, <cCompanyField>, <cTextField>, <cFileNames> " scope="PUBLIC" type="ptMethod" line="1139">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1182">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1192">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetConvertNulls" args="<lConvert> " scope="PUBLIC" type="ptMethod" line="1212">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetDoublePass" args="<lDouble> " scope="PUBLIC" type="ptMethod" line="1221">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetPrintIfEmpty" args="<lPrint> " scope="PUBLIC" type="ptMethod" line="1231">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetSilentMode" args="<lSilent> " scope="PUBLIC" type="ptMethod" line="1242">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetNewSilentMode" args="<nMode> " scope="PUBLIC" type="ptMethod" line="1254">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetMaxMemSize" args="<nSize> " scope="PUBLIC" type="ptMethod" line="1270">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetTempDir" args="<sDir> " scope="PUBLIC" type="ptMethod" line="1280">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetUseFileCache" args="<lUse> " scope="PUBLIC" type="ptMethod" line="1291">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetCopies" args="<nCopies> " scope="PUBLIC" type="Inline Method" line="1313">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetPrintPages" args="<nPages> " scope="PUBLIC" type="Inline Method" line="1317">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1331">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1341">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetCollate" args="<lCollate> " scope="PUBLIC" type="ptMethod" line="1368">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetPageNumbers" args="<sParam> " scope="PUBLIC" type="ptMethod" line="1378">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetPrinter" args="<sPrinter> " scope="PUBLIC" type="ptMethod" line="1388">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetShowDialog" args="<lShow> " scope="PUBLIC" type="ptMethod" line="1412">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetReverse" args="<lReverse> " scope="PUBLIC" type="ptMethod" line="1421">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="ClearOptions" args=" " scope="PUBLIC" type="ptMethod" line="1430">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1474">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1484">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetAllowEdit" args="<lAllow> " scope="PUBLIC" type="ptMethod" line="1506">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetButtons" args="<nButtons> " scope="PUBLIC" type="ptMethod" line="1518">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetDoubleBuffered" args="<lDouble> " scope="PUBLIC" type="ptMethod" line="1531">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetMaximized" args="<lMax> " scope="PUBLIC" type="ptMethod" line="1540">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetBounds" args="<nLeft>, <nTop>, <nWidth>, <nHeight> " scope="PUBLIC" type="ptMethod" line="1549">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetOutlineVisible" args="<lVis> " scope="PUBLIC" type="ptMethod" line="1559">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetOutlineExpand" args="<lExpand> " scope="PUBLIC" type="ptMethod" line="1569">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetOutlineWidth" args="<nWidth> " scope="PUBLIC" type="ptMethod" line="1578">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetShowCaptions" args="<lShow> " scope="PUBLIC" type="ptMethod" line="1591">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetZoom" args="<nZoom> " scope="PUBLIC" type="ptMethod" line="1600">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetZoomMode" args="<nZMode> " scope="PUBLIC" type="ptMethod" line="1616">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="Init" args="<oManager> " scope="PUBLIC" type="ptMethod" line="1654">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="PrepareCalls" args=" " scope="PUBLIC" type="ptMethod" line="1664">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetAuthor" args="<sAuthor> " scope="PUBLIC" type="ptMethod" line="1684">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetCompressed" args="<lCompressed> " scope="PUBLIC" type="ptMethod" line="1694">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetCreateDate" args="<sDateTime> " scope="PUBLIC" type="ptMethod" line="1710">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetLastChange" args="<sDateTime> " scope="PUBLIC" type="ptMethod" line="1721">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetDescription" args="<sDescription> " scope="PUBLIC" type="ptMethod" line="1731">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetInitString" args="<sInitString> " scope="PUBLIC" type="ptMethod" line="1741">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetName" args="<sName> " scope="PUBLIC" type="ptMethod" line="1751">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetPassword" args="<sPassword> " scope="PUBLIC" type="ptMethod" line="1762">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="SetVersion" args="<aVersion> " scope="PUBLIC" type="ptMethod" line="1778">
+   <tag filename="C:\LIXO_FW\FASTREPORT\FastRepH.prg" name="fnDBStruct" args=" " scope="PUBLIC" type="ptFunction" line="1812">
+</taglist>

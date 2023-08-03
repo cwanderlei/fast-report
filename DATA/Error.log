@@ -1,0 +1,8 @@
+Error NETWORK/1001  Erro desconhecido: Opening Table Exclusive (DOS Error 41)
+Called from D:\Sistemas\DBU\DBULOCK.PRG->GENERROR(240)
+Called from D:\Sistemas\DBU\DBULOCK.PRG->NETUSE(62)
+Called from D:\Sistemas\DBU\DBU.PRG->MAIN(538)
+
+HwGUI 2.17 xHarbour 1.2.3 Intl. (SimpLex) (Build 20150603)
+Date:02/08/2017
+Time:07:02:01

@@ -1,0 +1,63 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 06/12/2009 11:47:12                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="76611">
+   <option outputname="DEMO_FWH">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="C:\Users\Kleyber\Downloads\FRH">
+   <option pathlib="">
+   <option pathobj="">
+   <option pathtooutput="">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="186196,76611">
+      <option customlibs="Sim">
+      <option fusesqllibfirst="Não">
+   </compilerparam>
+
+   <unit filename="demo_fwh.prg" main="true" compile="Sim">
+   <unit filename="FastRepH.prg" compile="Sim">
+   <unit filename="fastdemo.rc" compile="Sim">
+   <unit filename="INT.RC" compile="Sim">
+   <unit filename="C:\FWH711\lib\Patch.Lib" compile="Sim">
+   <unit filename="C:\FWH711\LIB\Fivehx.lib" compile="Sim">
+   <unit filename="C:\FWH711\LIB\FiveHC.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\rtl.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\debug.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\lang.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\macro.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\vm.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\dbfcdx.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\dbffpt.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\dbfntx.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\hbzip.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\common.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\pp.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\pcrepos.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\rdd.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\hbsix.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\gtgui.lib" compile="Sim">
+   <unit filename="C:\xHarbour.99.71d\lib\codepage.lib" compile="Sim">
+   <unit filename="C:\BCC55\Lib\PSDK\odbc32.lib" compile="Sim">
+   <unit filename="C:\BCC55\Lib\PSDK\rasapi32.lib" compile="Sim">
+   <unit filename="C:\BCC55\Lib\PSDK\msimg32.lib" compile="Sim">
+</project>

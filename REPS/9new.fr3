@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TfrxReport Version="4.5.17" DotMatrixReport="False" EngineOptions.UseFileCache="True" IniFile="\Software\Fast Reports for XBase" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="37871,9968403472" ReportOptions.Description.Text="Demonstrates how to create simple list report with images and memos from DB fields." ReportOptions.Name="Fishes" ReportOptions.LastChange="40456,3545446875" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end." StoreInDFM="False" PropData="044C656674021803546F70021808446174617365747301010C2500000020446174615365743D226F444D2E2220446174615365744E616D653D2242696F6C696665220000095661726961626C65730100055374796C650100">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="5" RightMargin="5" TopMargin="5" BottomMargin="5" Columns="1" ColumnWidth="210" ColumnPositions.Text="0" HGuides.Text="" VGuides.Text="">
+    <TfrxReportTitle Name="Band1" Height="34,01577" Left="0" Top="18,89765" Width="755,906">
+      <TfrxMemoView Name="Memo1" Left="0" Top="3,77953" Width="718,1107" Height="22,67718" ShowHintMode="hmDontShow" Color="8421504" Font.Charset="1" Font.Color="16777215" Font.Height="-16" Font.Name="Arial" Font.Style="1" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="Fishes"/>
+    </TfrxReportTitle>
+    <TfrxMasterData Name="Band3" Height="120,94496" Left="0" Top="113,3859" Width="755,906" Columns="1" ColumnWidth="200" ColumnGap="20" DataSet="oDM." DataSetName="Biolife" RowCount="0" Stretched="True">
+      <TfrxMemoView Name="Memo5" Left="0" Top="90,70872" Width="445,98454" Height="26,45671" ShowHintMode="hmDontShow" StretchMode="smMaxHeight" DataSetName="Bio" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="8421504" Font.Height="-11" Font.Name="Arial" Font.Style="0" HAlign="haBlock" HideZeros="True" ParentFont="False" Text="[Biolife.&#34;Notes&#34;]"/>
+      <TfrxMemoView Name="Memo3" Left="0" Top="11,33859" Width="445,98454" Height="71,81107" ShowHintMode="hmDontShow" DisplayFormat.DecimalSeparator="," Font.Charset="1" Font.Color="8421504" Font.Height="-13" Font.Name="Arial" Font.Style="1" ParentFont="False" Text="Number: [Biolife.&#34;SPECIES_NO&#34;]&#13;&#10;Name: [Biolife.&#34;COM_NAME&#34;]&#13;&#10;Spec name: [Biolife.&#34;SPEC_NAME&#34;]&#13;&#10;Length (cm): [Biolife.&#34;LENGTH_CM&#34;]"/>
+      <TfrxPictureView Name="Picture1" Left="449,76407" Top="9" Width="105,82684" Height="109,60637" ShowHintMode="hmDontShow" DataField="Graphic" DataSet="oDM." DataSetName="Biolife" Frame.Color="12632256" Frame.Width="2" HightQuality="True"/>
+      <TfrxLineView Name="Line1" Left="0" Top="0" Width="680,3154" Height="0" ShowHintMode="hmDontShow" Frame.Color="12632256" Frame.Typ="4"/>
+      <TfrxPictureView Name="Picture2" Left="563,14997" Top="7,55906" Width="185,19697" Height="109,60637" ShowHintMode="hmDontShow" DataField="GRAPHIC" DataSet="oDM." DataSetName="Biolife" HightQuality="False"/>
+    </TfrxMasterData>
+    <TfrxPageFooter Name="Band4" Height="22,67718" Left="0" Top="294,80334" Width="755,906">
+      <TfrxMemoView Name="Memo6" Left="0" Top="3,77953000000002" Width="718,1107" Height="15,11812" ShowHintMode="hmDontShow" Color="16777215" Font.Charset="1" Font.Color="0" Font.Height="-11" Font.Name="Arial" Font.Style="0" Frame.Typ="4" Frame.Width="2" HAlign="haRight" ParentFont="False" Text="[Page#]"/>
+    </TfrxPageFooter>
+  </TfrxReportPage>
+</TfrxReport>
